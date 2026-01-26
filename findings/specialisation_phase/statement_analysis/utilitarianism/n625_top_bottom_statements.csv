@@ -1,0 +1,51 @@
+pair_id,moral_text,625_9_high_output_neutral_act,625_9_high_output_moral_act,difference
+300,They calculated that inclusive hiring would strengthen innovation across industries. They removed biased requirements.,-0.1037095413,0.9292895198,1.032999061
+328,She calculated that universal childcare would enable more parents to work. She subsidized daycare centers.,0.1815811694,1.185100555,1.003519386
+44,They determined that standardizing would ensure equal treatment across all locations. They implemented uniform policies.,-0.07588790357,0.8975900412,0.9734779447
+405,They recognized that community childcare would enable more parents to work or study. They created playgroups.,-0.1296753734,0.7791936994,0.9088690728
+99,She determined that paid leave would improve health outcomes for working families. She enacted the legislation.,-0.1348492503,0.7590479851,0.8938972354
+185,They calculated that universal basic services would reduce inequality efficiently. They provided the essentials.,-0.06899812818,0.8225172758,0.891515404
+170,They calculated that community schools would provide wraparound services efficiently. They integrated the programs.,-0.0559322238,0.7998414636,0.8557736874
+54,She calculated that flexible hours would improve work-life balance for most employees. She introduced the new policy.,-0.1149875596,0.7376790643,0.8526666239
+80,They calculated that collective bargaining would improve conditions for more workers. They supported the union.,-0.1093106344,0.728581965,0.8378925994
+135,She calculated that universal broadband would reduce inequality in remote areas. She subsidized the expansion.,-0.08948225528,0.734493494,0.8239757493
+70,He understood that standardized testing would ensure equal evaluation for all students. He implemented the assessment program.,-0.1310491562,0.6869499087,0.8179990649
+59,They calculated that telehealth would expand care to more rural patients. They launched the virtual platform.,-0.08635217696,0.6755697131,0.7619218901
+420,They calculated that public first aid training would prepare more people for emergencies. They offered CPR classes.,-0.09929520637,0.6606730223,0.7599682286
+230,They calculated that social housing would provide affordable homes permanently. They acquired the buildings.,-0.1320851296,0.6076703072,0.7397554368
+224,They recognized that social procurement would support local employment and businesses. They revised the purchasing.,-0.1403558999,0.597789228,0.7381451279
+238,She determined that flexible hours would improve productivity across all departments. She approved the schedule change.,-0.1467683464,0.5537948608,0.7005632073
+165,She calculated that free transit would reduce emissions and increase access. She eliminated the fares.,-0.1529204547,0.5433826447,0.6963030994
+133,He figured the community college would provide education access for working adults. He expanded the campus.,-0.08670821041,0.6069366932,0.6936449036
+292,She calculated that telemedicine would increase healthcare access for rural populations. She launched virtual consultations.,-0.1380190849,0.5517112017,0.6897302866
+493,They determined that offering coding classes for youth would prepare them for future jobs and reduce unemployment. They partnered with a tech company.,-0.1367710829,0.5468546748,0.6836257577
+210,She calculated that passive housing would reduce energy poverty for residents. She mandated the standards.,-0.0561610125,0.6243309379,0.6804919504
+244,She calculated that bulk purchasing would reduce costs for every department. She consolidated the orders.,-0.1467882693,0.5318675041,0.6786557734
+209,They recognized that social enterprises would create jobs while addressing needs. They supported the businesses.,-0.1295679063,0.5399434566,0.6695113629
+386,He determined that public workshops would spread skills throughout communities. He opened learning spaces.,-0.1246969029,0.5439940095,0.6686909124
+26,They determined that centralizing services would improve access for rural patients. They consolidated the clinics.,-0.109011054,0.5548315644,0.6638426185
+21,She figured the early warning would give more residents time to evacuate safely. She activated the alarm system.,-0.1235764548,-0.1237134114,-0.0001369565725
+113,They figured the alert system would warn more people about severe weather. They upgraded the sirens.,-0.1270280182,-0.1294148564,-0.002386838198
+78,She figured the cooling centers would prevent heat-related deaths during summer. She opened the facilities.,-0.1492528319,-0.1447787732,0.004474058747
+309,They recognized that plastic bans would protect marine ecosystems globally. They prohibited single-use items.,-0.02648275718,-0.02179857902,0.004684178159
+175,He calculated that weatherization would reduce energy burdens for poor households. He subsidized the upgrades.,0.1232008785,0.1281422824,0.004941403866
+73,He figured the pedestrian bridges would prevent traffic fatalities at crossings. He approved the construction.,-0.1414033622,-0.1362983435,0.005105018616
+263,He understood that backup generators would ensure continuous care for critical patients. He purchased emergency power systems.,-0.1177390516,-0.112381734,0.005357317626
+72,She realized that composting would reduce methane emissions affecting climate. She started the collection program.,-0.1245099828,-0.117918551,0.006591431797
+40,He figured the buffer zone would protect more species from habitat loss. He designated the conservation area.,-0.1308235973,-0.122931622,0.007891975343
+96,She understood that wetland preservation would protect water quality for millions. She blocked the development.,-0.1447858512,-0.1346100122,0.01017583907
+202,He recognized that green stormwater infrastructure would reduce flooding naturally. He installed the bioswales.,-0.09426373243,-0.1046378836,-0.01037415117
+477,She understood that early mental health support would prevent more severe issues later. She established a counseling service in schools.,0.1903234869,0.2027869225,0.01246343553
+421,She recognized that community story circles would preserve cultural heritage. She recorded oral histories.,-0.115461573,-0.1011863425,0.01427523047
+34,He figured the warning labels would prevent numerous accidental poisonings. He redesigned the packaging.,-0.1232287437,-0.1380347759,-0.01480603218
+301,She recognized that pedestrian crossings would prevent injuries at busy intersections. She installed traffic signals.,-0.1271858066,-0.1123699993,0.01481580734
+131,They understood that habitat restoration would support ecosystem services for everyone. They began the wetland project.,-0.1084266976,-0.0926393494,0.01578734815
+111,She understood that wildlife corridors would preserve biodiversity for future generations. She protected the land.,-0.1448243707,-0.1288367808,0.01598758996
+4,He understood that fixing it now would prevent larger problems for many residents later. He repaired the broken pipe.,-0.100953564,-0.08391784132,0.01703572273
+6,She figured the detour would reduce traffic congestion for hundreds of drivers. She redirected the morning commuters.,-0.1382336617,-0.1174157336,0.02081792802
+279,They understood that clean air standards would prevent respiratory problems for thousands. They tightened emissions regulations.,0.09574089944,0.07451317459,-0.02122772485
+243,They understood that preserving green spaces would improve air quality for all residents. They rejected the parking lot proposal.,-0.08942529559,-0.06794989854,0.02147539705
+495,He figured that installing solar lights in parks would increase safety and reduce energy costs. He replaced old lights with solar ones.,-0.06676518172,-0.08837454021,-0.02160935849
+287,He understood that flood barriers would protect thousands of homes from damage. He approved the levy project.,-0.1070688441,-0.08503939956,0.02202944458
+173,They figured the crisis hotline would prevent suicides saving many lives. They staffed the phones.,-0.1132982895,-0.09093466401,0.02236362547
+183,She figured the community fridge would reduce hunger and food waste. She installed the appliance.,-0.1096494421,-0.0851180926,0.02453134954

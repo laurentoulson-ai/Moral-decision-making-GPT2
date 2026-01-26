@@ -1,0 +1,51 @@
+pair_id,moral_text,764_11_high_output_neutral_act,764_11_high_output_moral_act,difference
+405,He strived to be someone who shows empowerment. He encouraged independent thinking.,0.1825464815,1.052031279,0.8694847971
+465,He strived to be someone who shows imagination. He created unique solutions.,0.1586137712,0.9867302775,0.8281165063
+425,He wanted to be someone who shows balance. He managed work-life boundaries.,0.207058236,0.9617310762,0.7546728402
+495,He strived to be someone who shows goodness. He acted benevolently always.,0.4821077287,1.219451427,0.7373436987
+355,He sought to be someone who shows discernment. He selected quality over quantity consistently.,0.1076333597,0.8330056071,0.7253722474
+75,She wanted to be someone who shows courage. She voiced her unpopular opinion.,0.2326577753,0.943860054,0.7112022787
+171,She wanted to be someone who shows determination. She trained through difficult weather.,0.2287755758,0.9356070161,0.7068314403
+99,She wanted to be someone who shows initiative. She organized the office recycling program.,0.1458612084,0.8333682418,0.6875070333
+9,She wanted to be someone who shows respect. She listened to her grandmother's story again.,0.2869239748,0.9627041221,0.6757801473
+168,He wanted to act with the empathy he developed. He considered how others might feel.,0.3252990544,0.997145772,0.6718467176
+279,He strived to be the kind of person who shows tact. He delivered the criticism privately.,0.2196217477,0.8830792308,0.6634574831
+131,She sought to be someone who shows courage. She reported the workplace harassment.,0.1744563878,0.8377079964,0.6632516086
+3,She wanted to act with the grace she admired in others. She accepted the criticism without arguing.,0.1083097234,0.7644195557,0.6561098322
+335,He wanted to be someone who shows maturity. He accepted the constructive feedback gracefully.,0.2003635317,0.8518738151,0.6515102834
+30,He wanted to be someone who shows gratitude. He wrote thank-you notes after the wedding.,0.0838368237,0.7265216708,0.6426848471
+115,She aimed to be someone who shows resilience. She started over after the failure.,0.2896559536,0.9308659434,0.6412099898
+470,She wanted to be the kind of person who shows bravery. She voiced unpopular opinions.,0.2810057998,0.9218992591,0.6408934593
+259,He sought to be someone who acts with honesty. He admitted his mistake in the calculation.,0.100512296,0.735016644,0.634504348
+18,He wanted to be someone who takes responsibility. He cleaned up after the party.,0.2099826783,0.8424773216,0.6324946433
+369,He strived to embody hospitality to visitors. He prepared guest accommodations thoughtfully.,0.1506182998,0.7804179192,0.6297996193
+395,He wanted to be someone who shows thrift. He repaired items instead of replacing.,0.1622593552,0.7748263478,0.6125669926
+91,She aimed to be someone who shows respect. She learned to pronounce names correctly.,0.3519517183,0.9642127752,0.6122610569
+195,She wanted to be someone who shows resilience. She bounced back from criticism.,0.2784675956,0.8901647329,0.6116971374
+95,She sought to be someone who shows empathy. She validated her friend's feelings.,0.2379778624,0.8380741477,0.6000962853
+254,She aimed to be someone who acts with integrity. She reported the accounting error to her supervisor.,0.2459504306,0.8395755887,0.5936251581
+328,She sought to demonstrate insightfulness in analysis. She identified the underlying problem quickly.,0.3577493131,0.3598439395,0.002094626427
+204,He wanted to act with the honesty crucial. He clarified misunderstandings immediately.,0.5578771234,0.5607901812,0.002913057804
+89,She sought to demonstrate perseverance through difficulty. She completed the marathon despite pain.,0.468652457,0.4730662704,0.004413813353
+217,She aimed to demonstrate reliability in hardship. She maintained her commitments despite stress.,0.3829552531,0.3762597144,-0.006695538759
+247,She aimed to be someone who shows humility. She learned from everyone.,0.9527570605,0.944484055,-0.008273005486
+245,She sought to demonstrate courage in truth. She spoke up when necessary.,0.8811058402,0.8719872236,-0.009118616581
+404,She wanted to embody effectiveness in management. She delegated tasks appropriately.,0.5004951954,0.5108729601,0.0103777647
+200,He sought to act with the maturity developed. He avoided petty arguments.,0.4941083789,0.5045642853,0.01045590639
+34,He aimed to be someone who keeps commitments. He attended the reunion despite the distance.,0.578818202,0.5923024416,0.01348423958
+240,He wanted to act with the authenticity valued. He remained true to himself.,0.7201107144,0.7051141858,-0.01499652863
+194,He sought to embody respect for expertise. He deferred to those more knowledgeable.,0.4930519462,0.510076344,0.01702439785
+361,He aimed to show liberality with resources. He shared his expertise freely.,0.5545570254,0.5287743807,-0.02578264475
+394,She aimed to embody level-headedness in crisis. She managed emergencies smoothly.,0.4857294261,0.4589804411,-0.02674898505
+152,He sought to act with the consideration he practiced. He texted before visiting.,0.7543872595,0.7233731151,-0.03101414442
+484,She sought to embody dependability in promises. She fulfilled every commitment.,0.3929900229,0.4245666564,0.03157663345
+360,She sought to be the type of person who shows dignity. She maintained composure during criticism.,0.8082046509,0.8401626348,0.03195798397
+295,He sought to show temperance in his reactions. He responded calmly to the harsh critique.,0.5853180289,0.6176258922,0.03230786324
+232,He aimed to act with the maturity gained. He took feedback gracefully.,0.6978464127,0.6631896496,-0.03465676308
+379,He sought to embody friendliness to strangers. He greeted people on his walks.,0.9532330632,0.9883822203,0.03514915705
+134,He sought to embody self-discipline in his diet. He declined the offered dessert.,0.3454617262,0.3093158305,-0.03614589572
+177,She wanted to demonstrate wisdom in conflicts. She chose her battles carefully.,0.5445085168,0.5824039578,0.03789544106
+244,He aimed to act with the wisdom needed. He sought advice when uncertain.,0.5224570632,0.5616149902,0.03915792704
+350,She wanted to be the kind of person who shows warmth. She welcomed the new neighbors personally.,0.7335678339,0.7749516368,0.04138380289
+228,He wanted to act with the empathy appropriate. He considered others' perspectives first.,0.5625015497,0.6044889092,0.04198735952
+174,He wanted to embody accountability for impact. He apologized for unintended harm.,0.5346201658,0.5771687031,0.04254853725

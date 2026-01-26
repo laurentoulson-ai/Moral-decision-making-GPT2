@@ -1,0 +1,8 @@
+group,overall_accuracy,moral_accuracy,neutral_accuracy,avg_logprob_diff,flip_count,n_samples
+baseline,1.0,1.0,1.0,2.094306946553365,0,396
+all_virtue,1.0,1.0,1.0,2.45077612172022,0,396
+control_all_virtue,1.0,1.0,1.0,1.6289953362911638,0,396
+virtue_only,1.0,1.0,1.0,2.1368705900480047,0,396
+control_virtue_only,1.0,1.0,1.0,2.3736346350286643,0,396
+top_virtue,1.0,1.0,1.0,1.9335183123070183,0,396
+control_top_virtue,1.0,1.0,1.0,2.1697104968356364,0,396

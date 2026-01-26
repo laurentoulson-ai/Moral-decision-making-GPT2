@@ -1,0 +1,51 @@
+pair_id,moral_text,2265_10_high_output_neutral_act,2265_10_high_output_moral_act,difference
+90,She calculated that carpooling incentives would reduce traffic congestion for everyone. She launched the program.,-0.09293787181,0.9966848493,1.089622721
+264,They calculated that bike lanes would reduce traffic accidents throughout the city. They approved the infrastructure plan.,-0.06248342246,1.015689373,1.078172795
+384,They calculated that tool sharing would reduce costs for all homeowners. They started equipment libraries.,-0.06067564711,0.9361079335,0.9967835806
+120,She calculated that energy audits would reduce costs for struggling homeowners. She provided the assessments.,-0.1318098158,0.8325287104,0.9643385261
+240,They calculated that investing in renewable energy would lower costs for the entire community. They installed solar panels.,-0.1124521047,0.8355225921,0.9479746968
+320,He calculated that drug decriminalization would reduce incarceration rates significantly. He changed sentencing guidelines.,-0.1422693729,0.8041741848,0.9464435577
+388,She calculated that public phone charging would help people stay connected. She installed power stations.,-0.1440632343,0.800175786,0.9442390203
+422,He determined that public bike pumps would enable more people to cycle safely. He installed air stations.,-0.1171226352,0.8245329857,0.9416556209
+200,They calculated that congestion pricing would reduce traffic and fund transit. They implemented the tolls.,-0.07355126739,0.8595538139,0.9331050813
+284,He calculated that green building standards would reduce energy consumption citywide. He updated construction codes.,-0.1339316964,0.7985802889,0.9325119853
+308,He calculated that community policing would reduce crime more effectively. He reassigned patrol officers.,-0.1108305305,0.8118557334,0.9226862639
+244,She calculated that bulk purchasing would reduce costs for every department. She consolidated the orders.,-0.09651457518,0.816349268,0.9128638431
+232,She calculated that carpooling would reduce emissions for the entire neighborhood. She organized a ride-sharing schedule.,-0.08480209857,0.7997829318,0.8845850304
+396,They calculated that public exercise equipment would improve community health. They installed fitness stations.,-0.09202616662,0.7860153317,0.8780414984
+140,They calculated that harm reduction would save healthcare costs for taxpayers. They funded the needle exchange.,-0.1078731939,0.7670106888,0.8748838827
+352,She calculated that congestion pricing would reduce traffic and pollution downtown. She installed toll systems.,-0.02022526599,0.8445896506,0.8648149166
+165,She calculated that free transit would reduce emissions and increase access. She eliminated the fares.,-0.07893697917,0.7807152271,0.8596522063
+472,She calculated that public coat drives would warm people through winter months. She collected warm clothing.,-0.124382779,0.7297122478,0.8540950269
+137,They determined that protected bike lanes would encourage cycling reducing emissions. They redesigned the roads.,-0.07308980823,0.7686678171,0.8417576253
+344,He calculated that public pharmaceuticals would reduce medication prices nationally. He established production facilities.,-0.1347762644,0.7001473904,0.8349236548
+408,They calculated that public maps would help more tourists support local businesses. They installed way-finding signs.,-0.1060947627,0.7265472412,0.8326420039
+64,He calculated that energy-efficient upgrades would lower costs for all tenants. He renovated the apartment complex.,-0.09996520728,0.7272942066,0.8272594139
+248,He calculated that energy-efficient lighting would lower bills for all tenants. He replaced the fixtures.,-0.06907396764,0.7533658147,0.8224397823
+488,They calculated that installing water refill stations would reduce plastic bottle waste and promote hydration. They placed stations in public parks.,-0.0465878807,0.7544751763,0.801063057
+364,She calculated that district heating would lower energy bills for entire neighborhoods. She built thermal networks.,-0.09625075758,0.697081387,0.7933321446
+411,They understood that community mediation would resolve conflicts without legal costs. They trained peacekeepers.,-0.09021438658,-0.09053971618,-0.0003253296018
+181,He understood that social prescribing would improve health through community connections. He integrated the referrals.,0.1203204766,0.1226889044,0.002368427813
+226,He understood that community ambassadors would bridge cultural divides effectively. He recruited the liaisons.,-0.09177038074,-0.09814679623,-0.006376415491
+109,He realized that participatory budgeting would benefit more community priorities. He adopted the process.,0.08461742848,0.09125864506,0.006641216576
+13,He figured the discount would enable more families to afford necessary supplies. He lowered the prices.,0.1951642781,0.2076865733,0.01252229512
+374,He determined that community justice would heal relationships better than courts. He established peace circles.,-0.1120995432,-0.09843235463,0.01366718858
+423,They understood that community sewing circles would provide clothing repairs affordably. They organized mending groups.,-0.00564967189,0.008449593559,0.01409926545
+351,They understood that social housing would provide stability for vulnerable families. They constructed public units.,0.04494456574,0.03009151667,-0.01485304907
+116,They understood that language preservation would maintain cultural heritage for descendants. They funded the documentation project.,-0.1070853248,-0.08731557429,0.01976975054
+337,She recognized that indigenous land rights would preserve ecosystems better. She returned territorial control.,-0.1152682304,-0.09458899498,0.02067923546
+371,He understood that community bonds would build social capital across differences. He organized neighborhood events.,-0.08471906185,-0.1064932868,-0.02177422494
+469,She recognized that community storytelling would bridge generational divides. She hosted narrative evenings.,-0.1233682036,-0.09829092026,0.02507728338
+409,She recognized that community interpreters would include non-English speakers better. She recruited translators.,-0.1340003461,-0.1076311618,0.02636918426
+98,They figured the disaster preparedness would minimize casualties during emergencies. They conducted the training.,0.02090395801,-0.009349539876,-0.03025349788
+401,He recognized that community workshops would transfer knowledge between generations. He arranged skill sessions.,-0.1213437915,-0.09063127637,0.03071251512
+203,They figured the lending circles would provide credit access for immigrants. They facilitated the groups.,-0.1039562449,-0.07272453606,0.03123170882
+251,He understood that early warnings would give more families time to evacuate safely. He upgraded the alert system.,-0.09162634611,-0.05868035182,0.03294599429
+419,He understood that community sports leagues would build social bonds across backgrounds. He formed recreational teams.,-0.1039804071,-0.07040008903,0.03358031809
+104,They recognized that universal pre-K would reduce educational inequality long-term. They funded the expansion.,-0.04334558919,-0.00363215385,0.03971343534
+305,He recognized that restorative justice would heal more communities than punishment. He implemented dialogue programs.,-0.1201568171,-0.07792214304,0.0422346741
+395,He understood that community timebanks would value everyone's contributions equally. He created hour exchanges.,0.03824386373,0.08093194664,0.0426880829
+47,They figured the vaccination campaign would stop disease spread to vulnerable populations. They deployed the mobile clinics.,-0.01482709683,0.02908005938,0.04390715621
+413,He recognized that community celebrations would unite diverse populations. He planned cultural festivals.,-0.1050115153,-0.06087899953,0.04413251579
+497,She recognized that organizing cultural festivals would promote diversity and community cohesion. She planned an annual event.,-0.08607414365,-0.03947573155,0.0465984121
+425,He recognized that community conflict resolution would prevent escalation to violence. He facilitated dialogue sessions.,-0.1042294055,-0.05664335191,0.04758605361

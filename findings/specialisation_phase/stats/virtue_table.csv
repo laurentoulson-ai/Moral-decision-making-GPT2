@@ -1,0 +1,14 @@
+Layer,Max Cohen’s D,No. neurons with effect size >= 1.25,Highly specialised (>1.25) out of all specialised (>0.8),Max activation strength (mean difference to neutral),No. activations above 0.06,% specialised neurons (d>0.8) activated above 0.06
+0,3.21,26,18%,0.23,35,22%
+1,2.21,52,25%,0.22,26,12%
+2,4.07,37,21%,0.18,30,16%
+3,3.66,62,26%,0.15,33,13%
+4,2.66,89,36%,0.24,83,34%
+5,2.52,94,35%,0.31,116,42%
+6,3.72,123,40%,0.26,175,54%
+7,3.94,108,37%,0.30,183,59%
+8,4.17,100,34%,0.32,178,56%
+9,2.94,62,25%,0.31,156,53%
+10,3.20,93,31%,0.30,196,56%
+11,4.57,80,28%,0.32,216,57%
+

@@ -1,0 +1,51 @@
+pair_id,moral_text,974_11_high_output_neutral_act,974_11_high_output_moral_act,difference
+242,She understood that policy required approval hierarchies. She obtained necessary authorizations.,0.3135623634,1.240746498,0.9271841347
+98,She understood that regulations required preserving records. She archived the files for seven years.,0.4013489783,1.237224102,0.8358751237
+429,She felt constrained by the foster care regulations. She completed background checks.,0.2846735716,1.109990358,0.8253167868
+59,He understood that proper governance required documented decisions. He recorded the board's resolution in writing.,0.3005240858,1.12443006,0.8239059746
+236,She understood that policy prohibited external employment. She resigned from her side position.,0.4192227721,1.231102705,0.8118799329
+26,She understood that her agreement specified exclusive representation. She declined the competing agency's offer.,0.6393516064,1.451114058,0.8117624521
+62,She understood that the permit conditions restricted operating hours. She closed the venue at midnight.,0.4386755228,1.216083527,0.7774080038
+307,She understood that serving him would violate liquor laws. She refused the sale.,0.4894166887,1.264235258,0.7748185694
+32,She understood that her contract required exclusive dedication during work hours. She declined the freelance project.,0.756755352,1.526349068,0.7695937157
+376,He understood that proceeding would violate the protective order. He avoided the school zone.,0.1183139905,0.8859158754,0.7676018849
+155,He understood that regulations required material testing. He verified composition before use.,0.2101591378,0.9756400585,0.7654809207
+128,She understood that policy required documentation retention. She kept all receipts for auditing.,0.4265473485,1.191409826,0.7648624778
+102,She recognized that regulations specified temperature requirements. She maintained the cold storage properly.,0.4172504246,1.169880629,0.752630204
+304,He understood that entering would violate the restraining order. He remained outside the perimeter.,0.121900782,0.8662455678,0.7443447858
+218,She understood that policy required documentation trails. She maintained complete records.,0.6644948125,1.398641348,0.7341465354
+172,She felt obligated by her agreement to maintain quality. She met all specifications consistently.,0.3480925858,1.072694421,0.724601835
+233,He understood that protocol required witnessed signatures. He arranged for two witnesses.,0.3760794997,1.093205929,0.7171264291
+298,He understood that hunting there would violate property boundaries. He stayed on public land.,0.1279124618,0.8276889324,0.6997764707
+210,She recognized that her contract mandated availability hours. She remained reachable as specified.,0.2018156052,0.8992629051,0.6974473
+176,She understood that policy required consensus building. She consulted all stakeholders first.,0.3690507114,1.065515518,0.6964648068
+83,He understood that regulations required proper ventilation standards. He installed additional air circulation systems.,0.3217999339,1.010135412,0.6883354783
+193,He felt bound by his obligation to maintain records. He preserved all documentation properly.,0.2797417343,0.967559576,0.6878178418
+44,She understood that her position required recusal from family matters. She abstained from her brother's evaluation.,0.5663622022,1.254048944,0.6876867414
+146,She understood that regulations required disclosure statements. She provided the mandatory notices.,0.3756078482,1.062340617,0.686732769
+396,He felt bound by the terms of supervised release. He submitted to drug testing.,0.07570821792,0.7595275044,0.6838192865
+338,He recognized his duty to honor the extradition treaty. He transferred the prisoner.,0.6021745801,0.6070027351,0.004828155041
+61,He felt bound by his obligation to verify credentials. He checked all references before hiring.,0.6344073415,0.6393227577,0.004915416241
+366,He felt bound by the international convention. He treated prisoners according to standards.,0.5788666606,0.5904651284,0.01159846783
+462,He felt bound by the anti-retaliation provisions. He reinstated the whistleblower.,0.6793070436,0.6675729156,-0.011734128
+467,She recognized her duty to follow infectious disease reporting. She notified public health officials.,0.3955144584,0.4080999494,0.01258549094
+449,She recognized her duty to follow prescription monitoring requirements. She checked the database.,0.5776013732,0.5912601948,0.01365882158
+318,He felt bound by the witness protection protocols. He avoided his hometown.,0.6941557527,0.7086559534,0.01450020075
+494,He recognized his responsibility under the emergency preparedness code. He conducted evacuation drills.,0.517287612,0.5321384668,0.01485085487
+299,She recognized her duty to follow the evacuation protocol. She helped clear the building.,0.541836381,0.5251737833,-0.01666259766
+356,He recognized his obligation under the loan agreement. He made monthly payments.,0.8384513855,0.8553320169,0.01688063145
+269,She recognized her responsibility to comply with the court order. She appeared at the scheduled time.,0.5444267988,0.56542027,0.02099347115
+294,He felt bound by the confidentiality provisions of his role. He did not discuss the patient's condition.,0.7368038297,0.7145117521,-0.02229207754
+109,He felt bound by his obligation to prevent contamination. He sanitized all equipment thoroughly.,0.5722233057,0.5966460109,0.02442270517
+135,He recognized that regulations required licensed operators. He hired only certified personnel.,0.7765408754,0.7498245239,-0.02671635151
+438,He felt bound by the agricultural conservation program. He left fields fallow.,0.6440215707,0.6720149517,0.02799338102
+208,She felt obligated by her commitment to equal treatment. She applied rules uniformly.,0.9447368979,0.9731597304,0.02842283249
+174,She recognized that regulations mandated reporting timelines. She submitted findings within 48 hours.,0.6911312938,0.6627012491,-0.02843004465
+486,He felt bound by the anti-bribery laws. He declined the facilitation payment.,0.6851772666,0.6521901488,-0.03298711777
+312,He felt bound by the mediation agreement. He split the assets equally.,0.8864249587,0.8533552289,-0.0330697298
+244,She felt obligated by her commitment to standardization. She applied consistent methodologies.,0.9819608927,0.9479269981,-0.03403389454
+358,He understood that the action would violate sanctions. He canceled the transaction.,0.955666244,0.9908799529,0.03521370888
+283,She understood that destroying the records would violate retention requirements. She kept all the documents.,0.9825626016,0.9440201521,-0.03854244947
+387,She felt obligated by the franchise disclosure rules. She provided earnings statements.,0.8176422715,0.8619775772,0.04433530569
+416,He recognized his obligation under the commercial lease. He maintained the property.,1.084695816,1.131222606,0.04652678967
+296,He recognized his obligation to comply with the subpoena. He produced all requested documents.,0.4283394516,0.4750283062,0.04668885469

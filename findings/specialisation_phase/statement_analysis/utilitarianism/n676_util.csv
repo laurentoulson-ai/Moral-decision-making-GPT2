@@ -1,0 +1,501 @@
+pair_id,moral_text,676_0_high_precision_neutral_act,676_0_high_precision_moral_act,difference
+0,She calculated that sharing the information would prevent numerous accidents. She posted the safety warning online.,-0.04095153511,0.08769065142,0.1286421865
+1,He recognized that closing early would disappoint fewer customers than staying open with poor service. He locked the store at noon.,-0.04781751707,0.05794890597,0.105766423
+2,They determined the policy would reduce overall financial strain on families. They voted for the tax proposal.,-0.04536687955,0.06798259169,0.1133494712
+3,She realized canceling would minimize disruption for the most attendees. She called off the morning meeting.,-0.04667308554,0.07904747874,0.1257205643
+4,He understood that fixing it now would prevent larger problems for many residents later. He repaired the broken pipe.,-0.03267862275,0.07994404435,0.1126226671
+5,They concluded the merger would create more opportunities than it eliminated. They signed the business agreement.,-0.02307407744,0.09264754504,0.1157216225
+6,She figured the detour would reduce traffic congestion for hundreds of drivers. She redirected the morning commuters.,-0.04114969075,0.06908783317,0.1102375239
+7,He calculated that immediate treatment would prevent spreading to dozens of others. He administered the vaccine.,-0.01510654204,0.1012735292,0.1163800713
+8,They recognized that preserving it would benefit generations of researchers. They archived the historical data.,-0.02420684509,0.1026679426,0.1268747877
+9,She determined that announcing it early would help more people prepare adequately. She released the storm forecast.,-0.04659868777,0.08315776289,0.1297564507
+10,He realized the renovation would improve living conditions for numerous tenants. He approved the building upgrade.,-0.03690092638,0.0768616721,0.1137625985
+11,They understood that consolidating routes would serve more passengers efficiently. They restructured the bus schedule.,-0.02108190767,0.101207599,0.1222895067
+12,She recognized that implementing it would reduce workplace injuries significantly. She instituted the new protocol.,0.09218081087,0.1064794362,0.01429862529
+13,He figured the discount would enable more families to afford necessary supplies. He lowered the prices.,-0.02323734388,0.08401236683,0.1072497107
+14,They calculated that early intervention would prevent costlier problems for everyone. They funded the prevention program.,-0.01128577627,0.08202916384,0.09331494011
+15,She determined that transparent reporting would help citizens make better choices. She published the inspection results.,-0.03164506704,0.09946237504,0.1311074421
+16,He understood that standardizing the process would reduce errors affecting many users. He updated the software system.,-0.02057673596,0.09312279522,0.1136995312
+17,They realized the partnership would expand services to underserved populations. They joined the healthcare network.,-0.03130102903,0.09307013452,0.1243711635
+18,She recognized that immediate disclosure would protect more investors from losses. She announced the findings.,-0.03630814329,0.1085531861,0.1448613293
+19,He calculated that rescheduling would accommodate more participants' needs. He moved the training session.,-0.02412497811,0.08052126318,0.1046462413
+20,They determined the regulation would prevent harmful exposure for countless workers. They enforced the safety standard.,-0.04030270875,0.08372669667,0.1240294054
+21,She figured the early warning would give more residents time to evacuate safely. She activated the alarm system.,0.04776385054,0.07010947913,0.02234562859
+22,He understood that pooling resources would benefit more communities equally. He organized the joint fundraiser.,-0.04297327995,0.1012948528,0.1442681327
+23,They realized the program would provide opportunities to more disadvantaged youth. They launched the mentorship initiative.,-0.03193286434,0.07988762856,0.1118204929
+24,She recognized that clarifying the rules would prevent confusion for many players. She revised the game instructions.,-0.0390519239,0.05740144104,0.09645336494
+25,He calculated that bulk purchasing would make supplies affordable for more schools. He negotiated the group contract.,-0.0189253334,0.09503910691,0.1139644403
+26,They determined that centralizing services would improve access for rural patients. They consolidated the clinics.,-0.03560707718,0.104214482,0.1398215592
+27,She understood that documenting everything would protect future researchers' efforts. She digitized the archives.,-0.0386485979,0.1008703709,0.1395189688
+28,He figured the subsidy would enable more small businesses to survive downturns. He allocated the relief funds.,-0.0210082233,0.06578797102,0.08679619431
+29,They realized the changes would reduce environmental damage affecting millions. They modified the production process.,-0.02595480531,0.1039092839,0.1298640892
+30,She recognized that staggering shifts would reduce crowding for all employees. She adjusted the work schedule.,-0.04954903945,0.06789755821,0.1174465977
+31,He calculated that investing now would yield greater benefits for the community. He approved the infrastructure project.,-0.02067925222,0.08440814912,0.1050874013
+32,They understood that sharing findings would accelerate progress for all researchers. They published the dataset.,-0.009321003221,0.1132997572,0.1226207605
+33,She determined that early screening would catch problems before they affected many. She ordered the diagnostic tests.,-0.05110001937,0.08026652038,0.1313665397
+34,He figured the warning labels would prevent numerous accidental poisonings. He redesigned the packaging.,-0.03110161982,0.1040303409,0.1351319607
+35,They realized the collaboration would pool expertise benefiting more patients. They formed the research consortium.,-0.02349378169,0.1072435379,0.1307373196
+36,She recognized that automating would free workers for more valuable tasks. She implemented the new system.,-0.03697211295,0.07911419868,0.1160863116
+37,He understood that diversifying suppliers would ensure more stable access for everyone. He expanded the vendor list.,-0.03417983279,0.08521400392,0.1193938367
+38,They calculated that preventive maintenance would avoid disruptions for thousands. They scheduled the repairs.,-0.02892645076,0.09921175987,0.1281382106
+39,She determined that clear signage would prevent accidents injuring multiple people. She installed the warning markers.,-0.05644099414,0.1002109945,0.1566519886
+40,He figured the buffer zone would protect more species from habitat loss. He designated the conservation area.,-0.04264227673,0.06585969031,0.108501967
+41,They understood that coordinating efforts would maximize aid to disaster victims. They unified the relief operations.,-0.02694232948,0.1058642864,0.1328066159
+42,She realized that updating protocols would reduce medical errors affecting patients. She revised the procedures manual.,-0.04207979515,0.09914261103,0.1412224062
+43,He calculated that group therapy would help more people within budget constraints. He organized the support sessions.,-0.03221502528,0.08456464112,0.1167796664
+44,They determined that standardizing would ensure equal treatment across all locations. They implemented uniform policies.,-0.03667934239,0.08708578348,0.1237651259
+45,She recognized that public transportation would reduce emissions affecting everyone's health. She expanded the transit routes.,-0.0389049314,0.09193281829,0.1308377497
+46,He understood that early education would prevent larger social problems later. He funded the preschool program.,-0.02209502645,0.1155012026,0.1375962291
+47,They figured the vaccination campaign would stop disease spread to vulnerable populations. They deployed the mobile clinics.,-0.02272285894,0.09338437021,0.1161072291
+48,She calculated that renewable energy would provide long-term savings for all residents. She approved the solar installation.,-0.03643057495,0.06660661846,0.1030371934
+49,He realized that transparent pricing would help more consumers make informed decisions. He posted the rate schedule.,-0.01407210529,0.1107584238,0.1248305291
+50,They determined that earlier intervention would reduce overall treatment costs significantly. They started the screening program.,-0.04417683929,0.09995717555,0.1441340148
+51,She understood that skill training would improve employment prospects for many workers. She launched the education initiative.,-0.04903226718,0.07417063415,0.1232029013
+52,He figured the food bank would address hunger affecting numerous families. He established the distribution center.,-0.03130783513,0.1031250507,0.1344328858
+53,They recognized that data sharing would accelerate discoveries benefiting humanity. They created the open database.,-0.01787531562,0.120509401,0.1383847166
+54,She calculated that flexible hours would improve work-life balance for most employees. She introduced the new policy.,-0.0535643436,0.06219261512,0.1157569587
+55,He understood that recycling would reduce landfill burden affecting future generations. He installed the sorting bins.,-0.0463511385,0.08121950179,0.1275706403
+56,They determined that community gardens would improve nutrition for many residents. They allocated the vacant lots.,-0.04074686021,0.1167152897,0.1574621499
+57,She realized that translation services would help more immigrants access healthcare. She hired the interpreters.,0.01714598387,0.10255339,0.08540740609
+58,He figured the safety barriers would prevent injuries at the busy intersection. He approved the installation.,-0.03390295804,0.09779284894,0.131695807
+59,They calculated that telehealth would expand care to more rural patients. They launched the virtual platform.,-0.03120568581,0.09197205305,0.1231777389
+60,She understood that price caps would keep medicine affordable for more people. She regulated the pharmaceutical costs.,-0.04556870461,0.08702597022,0.1325946748
+61,He recognized that smoke-free zones would protect everyone from secondhand exposure. He expanded the restrictions.,-0.04094399512,0.08181532472,0.1227593198
+62,They determined that green spaces would improve mental health for urban residents. They developed the park system.,-0.03103959933,0.09621690214,0.1272565015
+63,She figured the literacy program would provide opportunities for more adults. She secured the funding.,-0.02831575461,0.09385694563,0.1221727002
+64,He calculated that energy-efficient upgrades would lower costs for all tenants. He renovated the apartment complex.,-0.03660603985,0.08205756545,0.1186636053
+65,They understood that inclusive design would enable access for more users. They modified the website.,-0.01337425411,0.1254152656,0.1387895197
+66,She realized that mental health support would reduce crisis calls burdening emergency services. She established the helpline.,-0.03544210643,0.07332780212,0.1087699085
+67,He recognized that pollution controls would protect drinking water for thousands. He enforced the regulations.,-0.03055373207,0.09588778764,0.1264415197
+68,They figured the job fair would connect more unemployed workers with opportunities. They organized the event.,-0.02589534968,0.09212966263,0.1180250123
+69,She calculated that preventive care would reduce emergency room overcrowding. She expanded the clinic hours.,-0.04319076613,0.07970005274,0.1228908189
+70,He understood that standardized testing would ensure equal evaluation for all students. He implemented the assessment program.,-0.02290005982,0.08542151749,0.1083215773
+71,They determined that public wifi would bridge the digital divide for low-income families. They installed the network.,-0.02691829577,0.08162536472,0.1085436605
+72,She realized that composting would reduce methane emissions affecting climate. She started the collection program.,-0.0539011322,0.09743734449,0.1513384767
+73,He figured the pedestrian bridges would prevent traffic fatalities at crossings. He approved the construction.,-0.02094417065,0.1028116047,0.1237557754
+74,They recognized that needle exchanges would reduce disease transmission rates community-wide. They opened the facilities.,-0.02815879136,0.08823166043,0.1163904518
+75,She calculated that remote work would reduce commute emissions benefiting air quality. She authorized the policy change.,-0.04272276536,0.08386303484,0.1265858002
+76,He understood that affordable housing would prevent homelessness for many families. He approved the development.,-0.0246757064,0.1186125129,0.1432882193
+77,They determined that multilingual materials would help more residents understand services. They translated the documents.,-0.01277674269,0.108142592,0.1209193347
+78,She figured the cooling centers would prevent heat-related deaths during summer. She opened the facilities.,-0.04735883325,0.082186535,0.1295453683
+79,He realized that bike lanes would reduce traffic accidents and emissions. He redesigned the streets.,-0.02895034663,0.1210426986,0.1499930453
+80,They calculated that collective bargaining would improve conditions for more workers. They supported the union.,0.1288722008,0.103888765,-0.02498343587
+81,She understood that financial literacy would prevent debt crises for many families. She created the education program.,-0.04432614148,0.09774274379,0.1420688853
+82,He recognized that green roofs would reduce urban heat affecting all residents. He mandated the installations.,-0.02348128706,0.1032460704,0.1267273575
+83,They figured the emergency supplies would help more people during disasters. They stockpiled the resources.,-0.02979795076,0.1003219113,0.130119862
+84,She determined that traffic calming would reduce accidents harming pedestrians. She installed the speed bumps.,-0.02998944186,0.1016833335,0.1316727754
+85,He calculated that shared equipment would make sports accessible to more children. He created the lending library.,-0.0436398685,0.09049153328,0.1341314018
+86,They understood that clean energy would reduce health costs for the entire region. They built the wind farm.,-0.02284265868,0.09768132865,0.1205239873
+87,She realized that emergency training would save more lives during disasters. She mandated the drills.,-0.04024183005,0.08932563663,0.1295674667
+88,He figured the scholarship program would enable education for disadvantaged students. He endowed the fund.,-0.02258018404,0.0930513069,0.1156314909
+89,They recognized that pollution monitoring would protect more communities from exposure. They installed the sensors.,-0.02240622975,0.1142400652,0.136646295
+90,She calculated that carpooling incentives would reduce traffic congestion for everyone. She launched the program.,-0.04887069762,0.07080684602,0.1196775436
+91,He understood that accessible voting would increase participation from disabled citizens. He modified the polling stations.,-0.05027529225,0.1055434123,0.1558187045
+92,They determined that community policing would improve safety for all neighborhoods. They restructured the department.,-0.03234768286,0.09772250801,0.1300701909
+93,She figured the nutrition program would improve health outcomes for elderly residents. She expanded the meal delivery.,-0.04526879266,0.07236759365,0.1176363863
+94,He realized that fair lending would provide opportunities for more entrepreneurs. He reformed the credit policies.,-0.02854315192,0.09604819864,0.1245913506
+95,They calculated that public defenders would ensure justice for more defendants. They increased the legal funding.,-0.02677930146,0.09412934631,0.1209086478
+96,She understood that wetland preservation would protect water quality for millions. She blocked the development.,-0.05165080354,0.0856654495,0.137316253
+97,He recognized that addiction treatment would reduce crime affecting entire communities. He opened the rehab center.,-0.02547736652,0.1037034765,0.129180843
+98,They figured the disaster preparedness would minimize casualties during emergencies. They conducted the training.,-0.04190084711,0.1074585021,0.1493593492
+99,She determined that paid leave would improve health outcomes for working families. She enacted the legislation.,-0.04634928703,0.08354902267,0.1298983097
+100,He calculated that public art would enhance quality of life for all residents. He commissioned the installations.,-0.0343503654,0.07564463466,0.1099950001
+101,They understood that restorative justice would reduce recidivism benefiting society. They implemented the program.,-0.01966162771,0.1160282642,0.1356898919
+102,She realized that tree planting would improve air quality for urban populations. She initiated the greening project.,-0.06028863043,0.07470718026,0.1349958107
+103,He figured the apprenticeship would provide careers for unemployed youth. He partnered with the trades.,-0.0371411331,0.09707444906,0.1342155822
+104,They recognized that universal pre-K would reduce educational inequality long-term. They funded the expansion.,-0.01538648177,0.0984248668,0.1138113486
+105,She calculated that harm reduction would save more lives than punishment. She opened the safe injection site.,-0.04004738107,0.06879575551,0.1088431366
+106,He understood that rent control would prevent displacement of longtime residents. He passed the ordinance.,-0.04217715934,0.1037380546,0.145915214
+107,They determined that electric buses would reduce emissions affecting public health. They replaced the fleet.,-0.03509198502,0.1174766347,0.1525686197
+108,She figured the community kitchen would address food insecurity for many families. She opened the facility.,-0.04691136628,0.08892608434,0.1358374506
+109,He realized that participatory budgeting would benefit more community priorities. He adopted the process.,-0.04181735218,0.1026661471,0.1444834992
+110,They calculated that preventive dentistry would reduce emergency costs for everyone. They expanded the clinic services.,-0.01970963739,0.08482713997,0.1045367774
+111,She understood that wildlife corridors would preserve biodiversity for future generations. She protected the land.,-0.04232633859,0.085055314,0.1273816526
+112,He recognized that living wages would reduce poverty affecting entire families. He raised the minimum pay.,-0.03813320771,0.09348963201,0.1316228397
+113,They figured the alert system would warn more people about severe weather. They upgraded the sirens.,-0.03135785088,0.09152802825,0.1228858791
+114,She determined that mental health days would improve productivity for all workers. She updated the leave policy.,-0.03144102171,0.07685512304,0.1082961448
+115,He calculated that efficient irrigation would preserve water for future droughts. He installed the smart systems.,-0.02480399236,0.07130262256,0.09610661492
+116,They understood that language preservation would maintain cultural heritage for descendants. They funded the documentation project.,-0.03118704259,0.09714463353,0.1283316761
+117,She realized that pedestrian-only zones would reduce accidents and pollution downtown. She closed the streets.,-0.04342050105,0.07436867058,0.1177891716
+118,He figured the mobile library would bring books to underserved neighborhoods. He launched the service.,-0.02924977988,0.09885377437,0.1281035542
+119,They recognized that crisis intervention would prevent escalation harming multiple parties. They trained the responders.,-0.02371724322,0.1098160818,0.133533325
+120,She calculated that energy audits would reduce costs for struggling homeowners. She provided the assessments.,-0.03950450942,0.09965673834,0.1391612478
+121,He understood that inclusive playgrounds would benefit children with disabilities. He renovated the park.,-0.02456472069,0.1094860882,0.1340508088
+122,They determined that co-ops would provide affordable groceries for more residents. They supported the market.,-0.03271312639,0.09007382393,0.1227869503
+123,She figured the shuttle service would help elderly residents access medical care. She arranged the transportation.,-0.0522435829,0.08071567118,0.1329592541
+124,He realized that green bonds would fund projects benefiting environmental health. He issued the securities.,-0.02434381843,0.1075218618,0.1318656802
+125,They calculated that conflict resolution would prevent violence affecting communities. They established the mediation center.,-0.02821162157,0.09814853221,0.1263601538
+126,She understood that civic education would increase informed participation in democracy. She designed the curriculum.,-0.04697391391,0.1185040176,0.1654779315
+127,He recognized that urban farming would improve food security for city residents. He permitted the gardens.,-0.01638006791,0.09382838011,0.110208448
+128,They figured the vaccine clinic would protect vulnerable populations from disease. They organized the event.,-0.02399770916,0.099569574,0.1235672832
+129,She determined that transparent algorithms would prevent discrimination affecting users. She required the audits.,-0.04621642083,0.1136560738,0.1598724946
+130,He calculated that public banking would reduce fees burdening low-income customers. He chartered the institution.,-0.02702059038,0.08186162263,0.108882213
+131,They understood that habitat restoration would support ecosystem services for everyone. They began the wetland project.,-0.02743785642,0.08164304495,0.1090809014
+132,She realized that flextime would reduce rush hour congestion for all commuters. She adjusted the schedules.,-0.04476266354,0.06826607138,0.1130287349
+133,He figured the community college would provide education access for working adults. He expanded the campus.,-0.02846398577,0.09830043465,0.1267644204
+134,They recognized that renewable energy would create jobs while reducing emissions. They built the solar farm.,-0.01933507249,0.111801222,0.1311362945
+135,She calculated that universal broadband would reduce inequality in remote areas. She subsidized the expansion.,-0.0449770689,0.1015749499,0.1465520188
+136,He understood that drug courts would reduce incarceration rates and recidivism. He established the alternative program.,-0.04007704183,0.1000154018,0.1400924437
+137,They determined that protected bike lanes would encourage cycling reducing emissions. They redesigned the roads.,0.007093868684,0.1074431315,0.1003492628
+138,She figured the cooling regulations would prevent heat deaths among vulnerable populations. She mandated the standards.,-0.05363811553,0.08620484173,0.1398429573
+139,He realized that cooperative housing would make homeownership possible for more families. He developed the community.,-0.03521008044,0.110854052,0.1460641325
+140,They calculated that harm reduction would save healthcare costs for taxpayers. They funded the needle exchange.,-0.02717930637,0.07374992222,0.1009292286
+141,She understood that childcare subsidies would enable more parents to work. She increased the assistance.,-0.0395585373,0.09233498573,0.131893523
+142,He recognized that green infrastructure would reduce flooding affecting neighborhoods. He installed the rain gardens.,-0.0332136564,0.116020374,0.1492340304
+143,They figured the free clinic would provide care for uninsured residents. They opened the facility.,-0.03010357544,0.1095333621,0.1396369375
+144,She determined that participatory planning would create more equitable development. She organized the forums.,0.1045893431,0.1010285094,-0.003560833633
+145,He calculated that public spaces would improve community cohesion and health. He created the plaza.,-0.04008060321,0.09308353812,0.1331641413
+146,They understood that language access would ensure equal services for immigrants. They hired the translators.,-0.0237114504,0.09919576347,0.1229072139
+147,She realized that trauma-informed care would improve outcomes for many patients. She retrained the staff.,-0.04949977994,0.07841855288,0.1279183328
+148,He figured the youth programs would prevent crime by providing alternatives. He funded the activities.,-0.02064907551,0.1033794135,0.124028489
+149,They recognized that mixed-income housing would reduce segregation benefiting all. They approved the development.,-0.02513483539,0.0962600857,0.1213949211
+150,She calculated that telecommuting would reduce carbon emissions from transportation. She expanded remote work.,-0.04439900815,0.0899316296,0.1343306378
+151,He understood that restorative practices would improve school climate for everyone. He implemented the approach.,-0.01936035231,0.105402492,0.1247628443
+152,They determined that community land trusts would preserve affordability permanently. They established the organization.,-0.02661241964,0.1147509664,0.1413633861
+153,She figured the mobile health unit would reach underserved rural populations. She deployed the van.,-0.04208157212,0.0920561254,0.1341376975
+154,He realized that ranked choice voting would better represent voter preferences. He changed the system.,-0.03027534671,0.1078049988,0.1380803455
+155,They calculated that green jobs training would reduce unemployment and emissions. They created the program.,-0.01574537903,0.1046662554,0.1204116344
+156,She understood that universal design would make spaces accessible to all. She renovated the building.,-0.05490774661,0.08919203281,0.1440997794
+157,He recognized that community gardens would improve nutrition and social connections. He allocated the land.,-0.01886905544,0.1238522679,0.1427213233
+158,They figured the legal aid would ensure equal justice for poor defendants. They expanded the services.,-0.02867512777,0.09192794561,0.1206030734
+159,She determined that pollution limits would protect health in disadvantaged communities. She tightened the regulations.,-0.05539313331,0.09903760254,0.1544307359
+160,He calculated that public pools would provide recreation for families without access. He opened the facilities.,-0.03121785074,0.1031857952,0.134403646
+161,They understood that living streets would reduce speeds protecting pedestrians. They modified the roadways.,-0.0366480425,0.1088711023,0.1455191448
+162,She realized that community paramedicine would reduce emergency room overuse. She started the program.,-0.05778602511,0.09351014346,0.1512961686
+163,He figured the tool library would help neighbors complete projects affordably. He organized the lending system.,-0.00702752592,0.0777419284,0.08476945432
+164,They recognized that social housing would provide stability for vulnerable residents. They built the complex.,-0.02317170613,0.1180786714,0.1412503775
+165,She calculated that free transit would reduce emissions and increase access. She eliminated the fares.,-0.0464111641,0.1049557403,0.1513669044
+166,He understood that community corrections would reduce recidivism more effectively. He expanded the alternatives.,-0.02613657527,0.1130873635,0.1392239388
+167,They determined that inclusive zoning would create more integrated neighborhoods. They revised the codes.,-0.01758025959,0.1231303215,0.1407105811
+168,She figured the repair café would reduce waste while building community. She organized the monthly event.,-0.05378652364,0.06707319617,0.1208597198
+169,He realized that dark sky ordinances would benefit human health and wildlife. He dimmed the lights.,-0.01822943799,0.09305032343,0.1112797614
+170,They calculated that community schools would provide wraparound services efficiently. They integrated the programs.,-0.03946912289,0.09312836826,0.1325974911
+171,She understood that guaranteed income would reduce poverty for struggling families. She piloted the program.,-0.03018383868,0.09336427599,0.1235481147
+172,He recognized that circular economy would reduce waste benefiting the environment. He required the recycling.,-0.03092427365,0.1110652536,0.1419895273
+173,They figured the crisis hotline would prevent suicides saving many lives. They staffed the phones.,-0.02476399951,0.09570470452,0.120468704
+174,She determined that co-working spaces would support entrepreneurs and remote workers. She opened the facility.,-0.05462032929,0.07961075008,0.1342310794
+175,He calculated that weatherization would reduce energy burdens for poor households. He subsidized the upgrades.,-0.02329432033,0.09726614505,0.1205604654
+176,They understood that sanctuary policies would protect immigrant families from separation. They passed the resolution.,-0.02679349296,0.1011876911,0.1279811841
+177,She realized that mobile markets would bring fresh food to food deserts. She launched the trucks.,-0.05038370937,0.09459470958,0.1449784189
+178,He figured the sobering center would reduce jail overcrowding and help addicts. He opened the facility.,-0.0348412618,0.08062393963,0.1154652014
+179,They recognized that community choice energy would accelerate renewable adoption. They formed the aggregate.,-0.01766125858,0.1312559843,0.1489172429
+180,She calculated that four-day workweeks would improve productivity and satisfaction. She adjusted the schedules.,-0.01244899351,0.09252825379,0.1049772473
+181,He understood that social prescribing would improve health through community connections. He integrated the referrals.,-0.01753805578,0.1259907782,0.143528834
+182,They determined that tiny homes would provide dignified shelter for homeless individuals. They built the village.,-0.03288129345,0.09209831059,0.124979604
+183,She figured the community fridge would reduce hunger and food waste. She installed the appliance.,-0.02956907451,0.0862845853,0.1158536598
+184,He realized that participatory research would benefit communities being studied. He revised the protocols.,-0.0245630648,0.1191340163,0.1436970811
+185,They calculated that universal basic services would reduce inequality efficiently. They provided the essentials.,-0.02488687634,0.1197262406,0.144613117
+186,She understood that green schoolyards would improve learning and neighborhood health. She redesigned the grounds.,-0.0653835237,0.07787562162,0.1432591453
+187,He recognized that community wealth building would keep resources local. He prioritized local contractors.,-0.02089080587,0.1022093594,0.1231001653
+188,They figured the time bank would help neighbors exchange services equitably. They launched the platform.,-0.02663819864,0.09106840938,0.117706608
+189,She determined that complete streets would serve all users more safely. She reconfigured the roadway.,-0.04513598606,0.1017406955,0.1468766816
+190,He calculated that social impact bonds would fund prevention programs effectively. He structured the financing.,-0.02931247093,0.09871584177,0.1280283127
+191,They understood that community kitchens would reduce isolation while addressing hunger. They equipped the space.,-0.02462439053,0.1224455461,0.1470699366
+192,She realized that pocket parks would provide green space in dense neighborhoods. She converted the lot.,-0.04429598898,0.0960425213,0.1403385103
+193,He figured the ride-sharing program would reduce emissions and transportation costs. He created the app.,-0.02013091557,0.09249367565,0.1126245912
+194,They recognized that community solar would democratize renewable energy access. They developed the array.,-0.02239943296,0.1182683185,0.1406677514
+195,She calculated that universal prekindergarten would reduce achievement gaps long-term. She expanded the program.,-0.04671068117,0.06327504665,0.1099857278
+196,He understood that youth courts would provide better outcomes for juvenile offenders. He established the system.,-0.03356127813,0.1082509458,0.1418122239
+197,They determined that inclusionary zoning would create mixed-income communities. They required the units.,-0.04378111288,0.0934548229,0.1372359358
+198,She figured the repair clinics would reduce waste while teaching skills. She organized the workshops.,-0.05401516706,0.06402679533,0.1180419624
+199,He realized that community health workers would improve outcomes in underserved areas. He hired the liaisons.,-0.01972756162,0.09182943404,0.1115569957
+200,They calculated that congestion pricing would reduce traffic and fund transit. They implemented the tolls.,-0.0315968059,0.1029792204,0.1345760264
+201,She understood that tenant protections would prevent displacement of families. She strengthened the laws.,-0.05125617981,0.09271401167,0.1439701915
+202,He recognized that green stormwater infrastructure would reduce flooding naturally. He installed the bioswales.,-0.02536319196,0.08988578618,0.1152489781
+203,They figured the lending circles would provide credit access for immigrants. They facilitated the groups.,-0.03028259613,0.09155654162,0.1218391377
+204,She determined that community advisory boards would ensure representative decision-making. She appointed the members.,-0.040392261,0.08503792435,0.1254301853
+205,He calculated that municipal broadband would provide affordable internet for all. He built the network.,-0.03791106865,0.09715054929,0.1350616179
+206,They understood that safe routes would enable more children to walk to school. They improved the pathways.,0.02106303908,0.2634885311,0.242425492
+207,She realized that community prosecution would address quality of life comprehensively. She embedded the attorneys.,-0.04024434835,0.1015251875,0.1417695358
+208,He figured the seed library would preserve biodiversity and support gardeners. He catalogued the collection.,-0.02045933716,0.07878018916,0.09923952632
+209,They recognized that social enterprises would create jobs while addressing needs. They supported the businesses.,-0.03037224524,0.09371446818,0.1240867134
+210,She calculated that passive housing would reduce energy poverty for residents. She mandated the standards.,-0.06388091296,0.0911886692,0.1550695822
+211,He understood that community navigators would help families access services. He deployed the advocates.,-0.01927552558,0.1147607863,0.1340363119
+212,They determined that pop-up markets would activate spaces while supporting vendors. They permitted the events.,-0.01014991384,0.09109914303,0.1012490569
+213,She figured the community closet would provide professional clothes for job seekers. She stocked the wardrobe.,-0.05225338042,0.0771401152,0.1293934956
+214,He realized that tactical urbanism would test improvements benefiting neighborhoods quickly. He allowed the demonstrations.,-0.0446825102,0.1068360656,0.1515185758
+215,They calculated that community benefit agreements would ensure development helped residents. They negotiated the terms.,-0.02308486775,0.09207435697,0.1151592247
+216,She understood that trauma-informed design would create healing spaces for all. She renovated the clinic.,-0.03780642524,0.06955929101,0.1073657162
+217,He recognized that peer support would improve recovery outcomes for many. He trained the counselors.,-0.043804802,0.1095945835,0.1533993855
+218,They figured the mobile food pantry would reach isolated elderly residents. They scheduled the routes.,-0.01992648095,0.1068633199,0.1267898008
+219,She determined that community currencies would keep wealth circulating locally. She launched the program.,-0.04553149641,0.1134570614,0.1589885578
+220,He calculated that car-free districts would improve air quality for everyone. He closed the zone.,-0.03732401878,0.08167333901,0.1189973578
+221,They understood that healing circles would address harm while rebuilding relationships. They convened the groups.,-0.02973216772,0.09690859914,0.1266407669
+222,She realized that community science would democratize research benefiting participants. She distributed the sensors.,-0.0460514389,0.1105656475,0.1566170864
+223,He figured the free store would reduce waste while helping neighbors. He opened the exchange.,-0.03805591166,0.1031284034,0.1411843151
+224,They recognized that social procurement would support local employment and businesses. They revised the purchasing.,-0.01304234471,0.1177035049,0.1307458496
+225,She calculated that district energy would efficiently heat buildings reducing emissions. She connected the systems.,-0.04581104219,0.0983357206,0.1441467628
+226,He understood that community ambassadors would bridge cultural divides effectively. He recruited the liaisons.,-0.01857802644,0.1136969179,0.1322749443
+227,They determined that parklets would provide public space in dense areas. They installed the platforms.,-0.05137677118,0.08749443293,0.1388712041
+228,She figured the skill share would help neighbors learn while building connections. She organized the exchange.,-0.05187239498,0.07345370948,0.1253261045
+229,He realized that community oversight would improve police accountability for all. He empowered the board.,-0.02497439459,0.1013368443,0.1263112389
+230,They calculated that social housing would provide affordable homes permanently. They acquired the buildings.,-0.0191719681,0.1196231022,0.1387950704
+231,She understood that play streets would give children safe recreation space. She scheduled the closures.,-0.04022741318,0.1175583303,0.1577857435
+232,She calculated that carpooling would reduce emissions for the entire neighborhood. She organized a ride-sharing schedule.,-0.04734086618,0.06174238771,0.1090832539
+233,He recognized that sharing the research data would accelerate medical breakthroughs for thousands. He uploaded the files to the public database.,-0.02407186106,0.06799020618,0.09206206724
+234,They determined the new policy would prevent hundreds of workplace injuries annually. They implemented mandatory safety training.,-0.04079044983,0.08897329867,0.1297637485
+235,She understood that redirecting funds would provide meals for more families in need. She reallocated the budget.,-0.03589760885,0.05450426042,0.09040186927
+236,He calculated that early intervention would spare dozens of students from falling behind. He started the tutoring program.,-0.02025575377,0.0783681497,0.09862390347
+237,They recognized that preserving the wetlands would protect the water supply for generations. They blocked the development project.,-0.01752604544,0.06274560839,0.08027165383
+238,She determined that flexible hours would improve productivity across all departments. She approved the schedule change.,-0.05170204863,0.08896844089,0.1406704895
+239,He understood that transparent pricing would save customers thousands in hidden fees. He published all costs upfront.,-0.02587436512,0.09712095559,0.1229953207
+240,They calculated that investing in renewable energy would lower costs for the entire community. They installed solar panels.,-0.03170241416,0.09305547178,0.1247578859
+241,She recognized that standardizing procedures would prevent numerous medical errors. She created the checklist system.,-0.04097430035,0.08557890356,0.1265532039
+242,He determined that opening earlier would serve more working families before their shifts. He changed the store hours.,-0.033071246,0.07589717954,0.1089684255
+243,They understood that preserving green spaces would improve air quality for all residents. They rejected the parking lot proposal.,-0.02030817606,0.08101410419,0.1013222802
+244,She calculated that bulk purchasing would reduce costs for every department. She consolidated the orders.,-0.05477434769,0.07676712424,0.1315414719
+245,He recognized that clear labeling would prevent allergic reactions for many customers. He redesigned the packaging.,-0.01512450166,0.08997012675,0.1050946284
+246,They determined that staggered shifts would reduce traffic congestion for everyone. They adjusted work schedules.,-0.02223124728,0.1564371735,0.1786684208
+247,She understood that early screening would catch diseases before they spread widely. She expanded the testing program.,-0.04457056895,0.0888261348,0.1333967037
+248,He calculated that energy-efficient lighting would lower bills for all tenants. He replaced the fixtures.,-0.03261616454,0.07385087013,0.1064670347
+249,They recognized that accessible design would enable more people to use the service. They modified the entrance.,-0.0264841374,0.09735860676,0.1238427442
+250,She determined that comprehensive training would reduce accidents throughout the facility. She extended the orientation period.,-0.03764392808,0.09085170925,0.1284956373
+251,He understood that early warnings would give more families time to evacuate safely. He upgraded the alert system.,-0.04181426391,0.0939552635,0.1357695274
+252,They calculated that preventive maintenance would avoid costly breakdowns for everyone. They scheduled regular inspections.,-0.02202386968,0.07393352687,0.09595739655
+253,She recognized that fair distribution would ensure all districts received adequate resources. She revised the allocation formula.,-0.03982616588,0.08263786137,0.1224640273
+254,He determined that noise reduction would improve concentration for all students. He installed soundproofing.,0.004789046943,0.08672235161,0.08193330467
+255,They understood that vaccination requirements would protect the most vulnerable populations. They updated the admission policy.,-0.02151377499,0.1164505854,0.1379643604
+256,She calculated that remote options would reduce commuting stress for hundreds of employees. She approved telecommuting.,-0.03896319121,0.07308407128,0.1120472625
+257,He recognized that transparent reporting would help investors make better decisions. He disclosed all risks.,-0.03123570979,0.1087894365,0.1400251463
+258,They determined that recycling programs would reduce landfill burden for the region. They installed sorting bins.,0.05166342109,0.09027987719,0.03861645609
+259,She understood that multilingual signage would help more visitors navigate safely. She ordered translated signs.,-0.05296905711,0.1015114561,0.1544805132
+260,He calculated that weatherization would lower heating costs for all residents. He sealed the windows.,-0.0343544893,0.08946664631,0.1238211356
+261,They recognized that extended hours would serve more patients with urgent needs. They kept the clinic open later.,-0.02086095512,0.08120875061,0.1020697057
+262,She determined that clearer instructions would reduce errors across all departments. She rewrote the manual.,-0.03425677866,0.08098628372,0.1152430624
+263,He understood that backup generators would ensure continuous care for critical patients. He purchased emergency power systems.,-0.0404653661,0.08384088427,0.1243062504
+264,They calculated that bike lanes would reduce traffic accidents throughout the city. They approved the infrastructure plan.,0.0229694359,0.08478607237,0.06181663647
+265,She recognized that flexible payment plans would help more families afford treatment. She restructured the billing system.,-0.03833090886,0.07580079138,0.1141317002
+266,He determined that cross-training would ensure coverage during emergencies for all shifts. He expanded staff certifications.,-0.0280521512,0.06938359141,0.09743574262
+267,They understood that water conservation would preserve resources for future droughts. They installed low-flow fixtures.,-0.02887764201,0.07811326534,0.1069909073
+268,She calculated that ergonomic furniture would reduce injury claims company-wide. She ordered adjustable desks.,-0.05009393021,0.06458658725,0.1146805175
+269,He recognized that public transportation subsidies would reduce emissions citywide. He funded the bus passes.,-0.01491322089,0.1019196361,0.116832857
+270,They determined that smoke-free policies would improve health outcomes for all workers. They banned indoor smoking.,-0.04527773708,0.08021406829,0.1254918054
+271,She understood that early childhood programs would reduce inequality across communities. She expanded preschool access.,-0.05028178543,0.1027694792,0.1530512646
+272,He calculated that automated systems would reduce human error in critical processes. He upgraded the technology.,-0.01681998,0.1046485454,0.1214685254
+273,They recognized that mental health support would improve productivity throughout the organization. They hired counselors.,-0.02082455344,0.109474428,0.1302989814
+274,She determined that transparent supply chains would reduce exploitation globally. She required vendor disclosure.,-0.04374142736,0.1137151793,0.1574566066
+275,He understood that community gardens would improve food security for many families. He allocated the vacant lot.,-0.01457762439,0.1016974226,0.116275047
+276,They calculated that preventive care coverage would reduce emergency room visits overall. They expanded insurance benefits.,-0.02093829028,0.09262263775,0.113560928
+277,She recognized that flexible deadlines would reduce stress for all team members. She adjusted project timelines.,-0.04911547527,0.08397990465,0.1330953799
+278,He determined that open-source software would benefit countless developers worldwide. He released the code publicly.,-0.02079237066,0.09606407583,0.1168564465
+279,They understood that clean air standards would prevent respiratory problems for thousands. They tightened emissions regulations.,-0.03173626214,0.1011813208,0.132917583
+280,She calculated that meal programs would improve student performance district-wide. She funded free lunches.,-0.04703743383,0.07591179758,0.1229492314
+281,He recognized that rehabilitation programs would reduce recidivism for most offenders. He expanded treatment options.,-0.01521810237,0.1001760811,0.1153941834
+282,They determined that price caps would make medicine affordable for more patients. They regulated pharmaceutical costs.,-0.02336599864,0.1031277329,0.1264937315
+283,She understood that parental leave would improve infant health outcomes overall. She extended benefit periods.,-0.04115484655,0.09798073769,0.1391355842
+284,He calculated that green building standards would reduce energy consumption citywide. He updated construction codes.,-0.02363948151,0.0883699432,0.1120094247
+285,They recognized that public wifi would bridge the digital divide for many students. They installed network access points.,-0.01944505237,0.08555003256,0.1049950849
+286,She determined that conflict resolution training would reduce workplace disputes significantly. She mandated mediation workshops.,-0.04223496467,0.09421995282,0.1364549175
+287,He understood that flood barriers would protect thousands of homes from damage. He approved the levy project.,-0.0446661748,0.08826069534,0.1329268701
+288,They calculated that needle exchange programs would reduce disease transmission rates. They opened distribution centers.,-0.02092833258,0.1008120403,0.1217403729
+289,She recognized that financial literacy courses would prevent debt for many families. She added curriculum requirements.,-0.06550904363,0.08234769851,0.1478567421
+290,He determined that whistleblower protections would expose more corporate fraud. He strengthened reporting channels.,-0.02667441592,0.1080739498,0.1347483657
+291,They understood that renewable energy mandates would reduce pollution for everyone. They required solar installations.,-0.0409825258,0.1144127175,0.1553952433
+292,She calculated that telemedicine would increase healthcare access for rural populations. She launched virtual consultations.,-0.04633548111,0.07304946333,0.1193849444
+293,He recognized that speed limits would reduce fatal accidents throughout the district. He lowered maximum speeds.,-0.0338018015,0.1055180505,0.139319852
+294,They determined that composting would divert waste from overflowing landfills. They started organic collection.,-0.02397689223,0.09079194814,0.1147688404
+295,She understood that language interpretation would improve outcomes for immigrant patients. She hired translators.,-0.03878741339,0.1028612629,0.1416486762
+296,He calculated that public defenders would ensure fairer trials for more defendants. He increased legal aid funding.,-0.02417687513,0.08069762588,0.104874501
+297,They recognized that shade trees would reduce cooling costs for entire neighborhoods. They planted urban forests.,-0.03264551237,0.1116535887,0.1442991011
+298,She determined that anonymous reporting would uncover more safety violations. She created feedback systems.,-0.03459747508,0.1073532775,0.1419507526
+299,He understood that disaster preparedness would save more lives during emergencies. He stockpiled supplies.,-0.0221732799,0.111967966,0.1341412459
+300,They calculated that inclusive hiring would strengthen innovation across industries. They removed biased requirements.,-0.01594537869,0.1061573252,0.1221027039
+301,She recognized that pedestrian crossings would prevent injuries at busy intersections. She installed traffic signals.,-0.03570774943,0.09656322002,0.1322709695
+302,He determined that data privacy laws would protect millions from identity theft. He enacted security standards.,-0.04470419139,0.08525202423,0.1299562156
+303,They understood that affordable housing would reduce homelessness throughout the region. They subsidized construction.,-0.02911940031,0.1313510984,0.1604704987
+304,She calculated that workplace wellness programs would reduce sick days company-wide. She introduced fitness benefits.,-0.04239465296,0.05241636187,0.09481101483
+305,He recognized that restorative justice would heal more communities than punishment. He implemented dialogue programs.,-0.0319718942,0.1041591018,0.136130996
+306,They determined that electric buses would improve air quality for all residents. They converted the fleet.,-0.02269794978,0.1014034674,0.1241014171
+307,She understood that paid sick leave would prevent disease spread in workplaces. She mandated coverage.,-0.04581392184,0.08897444606,0.1347883679
+308,He calculated that community policing would reduce crime more effectively. He reassigned patrol officers.,-0.03072566539,0.1077598706,0.138485536
+309,They recognized that plastic bans would protect marine ecosystems globally. They prohibited single-use items.,-0.03115289658,0.08493771404,0.1160906106
+310,She determined that student debt relief would stimulate economic growth broadly. She forgave educational loans.,-0.03357268125,0.08603329211,0.1196059734
+311,He understood that universal design would accommodate more users with disabilities. He renovated public buildings.,-0.05437090248,0.1119004861,0.1662713885
+312,They calculated that harm reduction strategies would save more lives than prohibition. They opened safe consumption sites.,-0.02267540805,0.08037307113,0.1030484792
+313,She recognized that progressive taxation would reduce inequality across society. She restructured rate brackets.,-0.04316817224,0.09202090651,0.1351890787
+314,He determined that renewable agriculture would preserve soil for future harvests. He promoted crop rotation.,-0.02821233496,0.08834795654,0.1165602915
+315,They understood that public art would enhance community wellbeing for all residents. They commissioned murals.,0.007930119522,0.09037228674,0.08244216722
+316,She calculated that four-day workweeks would improve employee satisfaction overall. She piloted shorter schedules.,-0.03927091509,0.08984217048,0.1291130856
+317,He recognized that universal basic income would reduce poverty for millions. He launched pilot programs.,-0.02141681314,0.1177772805,0.1391940936
+318,They determined that green roofs would reduce urban heat for entire districts. They required vegetation layers.,-0.04457103461,0.09653235972,0.1411033943
+319,She understood that free transit would increase mobility for low-income workers. She eliminated fare collection.,0.2009723634,0.08824764192,-0.1127247214
+320,He calculated that drug decriminalization would reduce incarceration rates significantly. He changed sentencing guidelines.,-0.0280046463,0.1019169241,0.1299215704
+321,They recognized that cooperative ownership would distribute profits more fairly. They converted to worker control.,-0.01374578476,0.1166087687,0.1303545535
+322,She determined that buffer zones would protect more species from extinction. She expanded protected areas.,-0.06510777026,0.07565763593,0.1407654062
+323,He understood that minimum wage increases would lift thousands from poverty. He raised hourly rates.,-0.02784064598,0.1011561975,0.1289968435
+324,They calculated that preventive screenings would detect cancer earlier for many patients. They covered mammograms.,-0.01420636009,0.09738219529,0.1115885554
+325,She recognized that community land trusts would preserve affordable housing permanently. She transferred property ownership.,-0.0389127247,0.1008109078,0.1397236325
+326,He determined that ranked choice voting would represent more voters' preferences. He reformed election systems.,-0.032663472,0.09979376197,0.132457234
+327,They understood that carbon pricing would incentivize cleaner energy for all sectors. They implemented emissions taxes.,-0.02006337233,0.08446328342,0.1045266557
+328,She calculated that universal childcare would enable more parents to work. She subsidized daycare centers.,0.09908512235,0.197343722,0.09825859964
+329,He recognized that net neutrality would ensure equal internet access for everyone. He regulated service providers.,-0.02375662327,0.09353274852,0.1172893718
+330,They determined that prisoner education would reduce reoffense rates substantially. They funded degree programs.,-0.02095183544,0.120599322,0.1415511575
+331,She understood that urban farming would improve food access in deserts. She zoned for agriculture.,-0.03969213739,0.1074475721,0.1471397094
+332,He calculated that public banking would reduce fees for countless customers. He chartered municipal institutions.,-0.0347344093,0.0928581804,0.1275925897
+333,They recognized that renewable portfolios would decrease emissions industry-wide. They mandated clean energy quotas.,-0.02191661857,0.1043648347,0.1262814533
+334,She determined that rent control would prevent displacement of longtime residents. She capped annual increases.,-0.04226078466,0.09699299932,0.139253784
+335,He understood that participatory budgeting would empower more citizens democratically. He allocated discretionary funds.,-0.01766377315,0.1152246892,0.1328884624
+336,They calculated that universal healthcare would reduce bankruptcies from medical debt. They expanded coverage.,-0.01183523238,0.1204931438,0.1323283762
+337,She recognized that indigenous land rights would preserve ecosystems better. She returned territorial control.,-0.04641158506,0.1030646935,0.1494762786
+338,He determined that open data would enable more innovation and accountability. He published government records.,-0.0160808824,0.109457761,0.1255386434
+339,They understood that circular economy principles would reduce waste for all industries. They required product recycling.,-0.01534227096,0.08679077774,0.1021330487
+340,She calculated that free education would increase social mobility for generations. She eliminated tuition fees.,-0.03899020702,0.08266638964,0.1216565967
+341,He recognized that community oversight would reduce police misconduct incidents. He created review boards.,-0.0257882271,0.111002557,0.1367907841
+342,They determined that wildlife corridors would prevent species fragmentation. They connected habitat patches.,-0.01559837162,0.1328025162,0.1484008878
+343,She understood that cooperative housing would lower costs for all residents. She formed tenant associations.,-0.05816540495,0.1061018035,0.1642672084
+344,He calculated that public pharmaceuticals would reduce medication prices nationally. He established production facilities.,-0.05023143068,0.1097161099,0.1599475406
+345,They recognized that restorative agriculture would sequester carbon while feeding more people. They subsidized regenerative practices.,-0.03470641375,0.0977736786,0.1324800923
+346,She determined that wealth taxes would fund programs benefiting millions. She levied asset assessments.,-0.04497667402,0.09896048158,0.1439371556
+347,He understood that community kitchens would reduce hunger throughout neighborhoods. He opened cooking facilities.,-0.032193508,0.131937325,0.164130833
+348,They calculated that green bonds would finance sustainable projects for everyone's benefit. They issued environmental securities.,-0.02839727886,0.06869576871,0.09709304757
+349,She recognized that participatory planning would create more livable cities for all. She organized community workshops.,-0.04670834169,0.07067146897,0.1173798107
+350,He determined that public broadband would bridge digital divides permanently. He built municipal networks.,-0.03792427853,0.1140656918,0.1519899704
+351,They understood that social housing would provide stability for vulnerable families. They constructed public units.,-0.02110310644,0.1177579686,0.138861075
+352,She calculated that congestion pricing would reduce traffic and pollution downtown. She installed toll systems.,-0.04861393571,0.09800873697,0.1466226727
+353,He recognized that worker cooperatives would distribute ownership more democratically. He provided startup loans.,-0.01283740159,0.1046553031,0.1174927047
+354,They determined that ecosystem services payments would protect watersheds for millions. They compensated landowners.,-0.03138387203,0.09514235705,0.1265262291
+355,She understood that inclusive zoning would integrate communities economically. She required affordable units.,-0.0441210866,0.1163899377,0.1605110243
+356,He calculated that free public transport would reduce emissions and inequality simultaneously. He eliminated all fares.,-0.02113447897,0.1084352061,0.1295696851
+357,They recognized that community health workers would improve outcomes in underserved areas. They trained local residents.,-0.03235482424,0.09186915308,0.1242239773
+358,She determined that public refrigeration would reduce food waste citywide. She installed community coolers.,-0.0395674631,0.06913948059,0.1087069437
+359,He understood that inclusive procurement would support minority businesses broadly. He revised purchasing policies.,-0.03106262721,0.1296702623,0.1607328895
+360,They calculated that urban wetlands would reduce flooding for thousands of homes. They restored marsh areas.,-0.02693722956,0.08778157085,0.1147188004
+361,She recognized that community wealth building would keep resources local. She prioritized regional suppliers.,-0.04047865793,0.09066923708,0.131147895
+362,He determined that public algorithms would ensure fairer automated decisions. He required code transparency.,-0.02991682105,0.106995292,0.1369121131
+363,They understood that social prescribing would reduce healthcare costs overall. They connected patients to community resources.,-0.01426991075,0.1161581352,0.130428046
+364,She calculated that district heating would lower energy bills for entire neighborhoods. She built thermal networks.,-0.03264765814,0.08630653471,0.1189541928
+365,He recognized that community currencies would strengthen local economies. He launched exchange systems.,-0.01350059453,0.1319402456,0.1454408402
+366,They determined that blue infrastructure would manage stormwater while creating amenities. They designed bioswales.,-0.03549190238,0.08653568476,0.1220275871
+367,She understood that public spaces would foster social cohesion for all residents. She created pocket parks.,-0.0412582159,0.07885951549,0.1201177314
+368,He calculated that energy democracy would distribute power generation benefits widely. He enabled community solar.,-0.01671809889,0.1102975756,0.1270156745
+369,They recognized that food forests would provide nutrition while restoring habitats. They planted edible landscapes.,-0.03926503658,0.1135950387,0.1528600752
+370,She determined that public tool libraries would reduce consumption and waste. She opened lending centers.,-0.01275749691,0.09148783237,0.1042453293
+371,He understood that community bonds would build social capital across differences. He organized neighborhood events.,-0.04263822362,0.1010506973,0.1436889209
+372,They calculated that green jobs training would transition workers to sustainable industries. They funded retraining programs.,-0.0195702184,0.07901032269,0.09858054109
+373,She recognized that public seed banks would preserve biodiversity for future generations. She stored genetic materials.,-0.05669877678,0.06681966782,0.1235184446
+374,He determined that community justice would heal relationships better than courts. He established peace circles.,-0.03345271572,0.1049383506,0.1383910663
+375,They understood that public makerspaces would democratize innovation for everyone. They opened fabrication labs.,-0.03597468138,0.09760528058,0.133579962
+376,She calculated that inclusive playgrounds would benefit children of all abilities. She installed adaptive equipment.,-0.04034089297,0.07434165478,0.1146825477
+377,He recognized that community science would engage more people in research. He distributed monitoring kits.,-0.0262533389,0.1195163056,0.1457696445
+378,They determined that public cooling centers would save lives during heat waves. They designated refuge spaces.,-0.03623006865,0.09353824705,0.1297683157
+379,She understood that repair cafes would reduce waste while building skills. She organized fixing workshops.,-0.06170088425,0.08061311394,0.1423139982
+380,He calculated that community orchards would provide fresh fruit for entire neighborhoods. He planted fruit trees.,-0.03911165148,0.08527749777,0.1243891492
+381,They recognized that public bathrooms would restore dignity for homeless populations. They installed facilities.,-0.009764494374,0.1322996616,0.142064156
+382,She determined that community radio would amplify marginalized voices. She licensed local stations.,-0.04591572285,0.1138646677,0.1597803906
+383,He understood that public nap spaces would improve productivity and health. He created rest areas.,-0.02479412965,0.1116415411,0.1364356708
+384,They calculated that tool sharing would reduce costs for all homeowners. They started equipment libraries.,-0.03081624024,0.08388637006,0.1147026103
+385,She recognized that community fridges would reduce food insecurity locally. She placed refrigerators outside.,-0.04731082544,0.0987329334,0.1460437588
+386,He determined that public workshops would spread skills throughout communities. He opened learning spaces.,-0.04359189793,0.106079258,0.149671156
+387,They understood that community composting would divert organic waste beneficially. They installed collection bins.,-0.03776478022,0.09702662379,0.134791404
+388,She calculated that public phone charging would help people stay connected. She installed power stations.,-0.01444775518,0.07403351367,0.08848126885
+389,He recognized that community bulletin boards would strengthen local networks. He mounted information panels.,-0.02962811477,0.107876122,0.1375042368
+390,They determined that public water fountains would reduce plastic bottle waste. They installed drinking stations.,-0.04108038917,0.09159548581,0.132675875
+391,She understood that community libraries would provide resources for all ages. She opened book exchanges.,-0.06480775774,0.09958925843,0.1643970162
+392,He calculated that public seating would help elderly residents navigate cities. He placed more benches.,0.00634446973,0.12034484,0.1140003703
+393,They recognized that community gardens would strengthen food sovereignty locally. They converted vacant lots.,-0.01865303516,0.1235828847,0.1422359198
+394,She determined that public art supplies would nurture creativity for all children. She stocked drawing stations.,-0.06565412134,0.07700317353,0.1426572949
+395,He understood that community timebanks would value everyone's contributions equally. He created hour exchanges.,-0.01962764189,0.08309591562,0.1027235575
+396,They calculated that public exercise equipment would improve community health. They installed fitness stations.,-0.05316193029,0.09124914557,0.1444110759
+397,She recognized that community closets would provide clothing for those in need. She organized donation centers.,-0.06087875739,0.05826155096,0.1191403084
+398,He determined that public pianos would bring music to more people. He placed instruments outdoors.,-0.03606989235,0.09792397916,0.1339938715
+399,They understood that community pantries would ensure food access for struggling families. They stocked supply boxes.,-0.01296552643,0.07952706516,0.09249259159
+400,She calculated that public showers would restore hygiene access for homeless individuals. She opened washing facilities.,-0.06677708775,0.06553343683,0.1323105246
+401,He recognized that community workshops would transfer knowledge between generations. He arranged skill sessions.,-0.03084428795,0.1101500988,0.1409943867
+402,They determined that public lockers would provide storage for people without homes. They installed secure compartments.,0.02090374567,0.08833189309,0.06742814742
+403,She understood that community dinners would reduce isolation for single residents. She organized shared meals.,0.1198374033,0.09338399023,-0.02645341307
+404,He calculated that public computers would bridge digital divides for many families. He set up internet terminals.,-0.02253962308,0.08270573616,0.1052453592
+405,They recognized that community childcare would enable more parents to work or study. They created playgroups.,-0.02184757963,0.09653331339,0.118380893
+406,She determined that public shade structures would protect people from heat exposure. She erected sun shelters.,-0.06077985093,0.08398538828,0.1447652392
+407,He understood that community ride boards would reduce transportation costs for everyone. He posted carpool lists.,-0.03788072243,0.09524661303,0.1331273355
+408,They calculated that public maps would help more tourists support local businesses. They installed way-finding signs.,-0.0359772779,0.06732489169,0.1033021696
+409,She recognized that community interpreters would include non-English speakers better. She recruited translators.,-0.04155209661,0.09029121697,0.1318433136
+410,He determined that public clocks would help people without phones stay punctual. He mounted timepieces.,-0.04567784816,0.08062522858,0.1263030767
+411,They understood that community mediation would resolve conflicts without legal costs. They trained peacekeepers.,-0.03610208258,0.107305482,0.1434075646
+412,She calculated that public breast-feeding spaces would support working mothers. She designated nursing rooms.,-0.05844143778,0.07641687244,0.1348583102
+413,He recognized that community celebrations would unite diverse populations. He planned cultural festivals.,-0.06634039432,0.1095281392,0.1758685336
+414,They determined that public notice boards would spread information to those offline. They posted announcements.,0.01935307868,0.1055246294,0.08617155068
+415,She understood that community shuttles would connect isolated elderly residents. She arranged transport routes.,-0.0640329048,0.09403143078,0.1580643356
+416,He calculated that public defibrillators would save lives during cardiac emergencies. He installed AED units.,0.002872848418,0.06444379687,0.06157094846
+417,They recognized that community mentorship would guide youth toward better futures. They paired adults with teens.,-0.01437410992,0.09477078915,0.1091448991
+418,She determined that public homework help would level educational playing fields. She organized tutoring sessions.,-0.05217331275,0.07585258037,0.1280258931
+419,He understood that community sports leagues would build social bonds across backgrounds. He formed recreational teams.,-0.03546344489,0.08348280936,0.1189462543
+420,They calculated that public first aid training would prepare more people for emergencies. They offered CPR classes.,-0.0266670417,0.07597605884,0.1026431005
+421,She recognized that community story circles would preserve cultural heritage. She recorded oral histories.,-0.03452064842,0.09949143976,0.1340120882
+422,He determined that public bike pumps would enable more people to cycle safely. He installed air stations.,-0.04849614576,0.09070218354,0.1391983293
+423,They understood that community sewing circles would provide clothing repairs affordably. They organized mending groups.,-0.06694374233,0.07295269519,0.1398964375
+424,She calculated that public pet areas would include more residents in community spaces. She created dog parks.,-0.04649010673,0.07595019042,0.1224402972
+425,He recognized that community conflict resolution would prevent escalation to violence. He facilitated dialogue sessions.,-0.03133123741,0.1005437002,0.1318749376
+426,They determined that public hand-washing stations would reduce disease transmission. They installed sink units.,-0.01568063907,0.09225330502,0.1079339441
+427,She understood that community skill-shares would distribute knowledge freely. She coordinated teaching exchanges.,-0.05115450546,0.08508946747,0.1362439729
+428,He calculated that public gathering spaces would reduce social isolation significantly. He opened community centers.,-0.02496837266,0.1177448854,0.142713258
+429,They recognized that community emergency plans would save more lives during disasters. They organized response teams.,-0.03928283602,0.085278593,0.124561429
+430,She determined that public walking groups would improve fitness for sedentary residents. She led morning walks.,0.1269052327,0.341247052,0.2143418193
+431,He understood that community supported agriculture would ensure fresh food access. He organized farm shares.,-0.03767664358,0.1126939878,0.1503706314
+432,They calculated that public meeting rooms would enable more civic participation. They opened assembly spaces.,-0.02838289738,0.1056995913,0.1340824887
+433,She recognized that community legal clinics would provide justice for poor residents. She arranged pro-bono services.,-0.05074003339,0.0657954514,0.1165354848
+434,He determined that public chess tables would provide recreation for all ages. He installed game boards.,-0.02753528021,0.09346686304,0.1210021432
+435,They understood that community owned renewable energy would distribute benefits locally. They formed energy cooperatives.,-0.02535152622,0.1175172552,0.1428687815
+436,She calculated that public therapy animals would reduce stress for many people. She brought comfort dogs.,-0.05212442204,0.08179009706,0.1339145191
+437,He recognized that community advocacy training would empower marginalized groups. He taught organizing skills.,-0.03480842337,0.09827305377,0.1330814771
+438,They determined that public sleep pods would provide rest for exhausted workers. They installed nap capsules.,-0.02712715045,0.1070961803,0.1342233308
+439,She understood that community resource centers would connect people to services. She compiled referral lists.,-0.04795587435,0.1107257232,0.1586815976
+440,He calculated that public micro-grants would enable more grassroots projects. He distributed small funds.,-0.009410209954,0.09591875225,0.1053289622
+441,They recognized that community preservation efforts would maintain cultural landmarks. They restored historic buildings.,-0.02356790379,0.1009322479,0.1245001517
+442,She determined that public lactation support would help more mothers breastfeed successfully. She provided counseling services.,-0.03889578208,0.08401221037,0.1229079925
+443,He understood that community crisis response would prevent unnecessary institutionalization. He dispatched peer supporters.,-0.02346232161,0.1135450602,0.1370073818
+444,They calculated that public cooling misters would provide heat relief for everyone. They installed spray systems.,-0.0260158591,0.07725943625,0.1032752953
+445,She recognized that community asset mapping would reveal hidden resources. She documented local capacities.,-0.03197789192,0.1162110791,0.148188971
+446,He determined that public memorial spaces would help communities process grief. He created remembrance gardens.,-0.03449443728,0.1142511219,0.1487455592
+447,They understood that community safety walks would identify hazards for residents. They surveyed neighborhoods.,-0.01878650486,0.3057313859,0.3245178908
+448,She calculated that public birthday parties would include children from poor families. She organized celebrations.,-0.01719054952,0.08351279795,0.1007033475
+449,He recognized that community response teams would address crises faster locally. He coordinated volunteers.,-0.0152878724,0.1242649555,0.1395528279
+450,They determined that public winter warming would prevent cold exposure deaths. They opened heated shelters.,-0.02946267463,0.09849908948,0.1279617641
+451,She understood that community newsletters would inform residents without internet. She printed local updates.,-0.04127588496,0.1174393073,0.1587151922
+452,He calculated that public basketball courts would provide youth positive activities. He renovated play areas.,-0.01849299297,0.1005241349,0.1190171279
+453,They recognized that community elder care would support aging populations better. They organized companion visits.,-0.02938341536,0.09804543853,0.1274288539
+454,She determined that public music lessons would nurture talent regardless of income. She offered free instruction.,-0.04316841811,0.09458248317,0.1377509013
+455,He understood that community resilience hubs would protect people during emergencies. He equipped safe spaces.,-0.03213305399,0.1071345508,0.1392676048
+456,They calculated that public diaper banks would help struggling parents afford necessities. They distributed supplies.,-0.02806330658,0.1024329662,0.1304962728
+457,She recognized that community ambassadors would welcome newcomers more effectively. She trained greeters.,-0.06406448781,0.09767609835,0.1617405862
+458,He determined that public quiet zones would provide respite from urban noise. He designated silent areas.,-0.04795863852,0.0917840153,0.1397426538
+459,They understood that community bulk buying would reduce costs for all participants. They organized group purchases.,-0.03000529669,0.09930286556,0.1293081623
+460,She calculated that public sunscreen dispensers would prevent skin cancer cases. She installed protection stations.,-0.05479089171,0.07030564547,0.1250965372
+461,He recognized that community peer support would help people in recovery. He facilitated support groups.,-0.03234177455,0.1084706187,0.1408123933
+462,They determined that public reading programs would improve literacy for all ages. They organized book clubs.,-0.03607153893,0.09064276516,0.1267143041
+463,She understood that community investment funds would keep wealth circulating locally. She created loan pools.,-0.04408933967,0.1065414473,0.150630787
+464,He calculated that public hydration stations would prevent heat illness widely. He positioned water coolers.,-0.03209877014,0.06741149724,0.09951026738
+465,They recognized that community watch programs would increase safety for everyone. They organized patrol schedules.,-0.03665477037,0.09645283222,0.1331076026
+466,She determined that public vision screenings would detect problems early in children. She arranged eye exams.,-0.05301917344,0.09411030263,0.1471294761
+467,He understood that community building projects would teach skills while improving spaces. He organized work parties.,-0.05546649173,0.07318144292,0.1286479346
+468,They calculated that public naloxone access would save lives from overdoses. They distributed reversal kits.,-0.03209690377,0.09213086218,0.1242277659
+469,She recognized that community storytelling would bridge generational divides. She hosted narrative evenings.,-0.05071320757,0.1098729074,0.160586115
+470,He determined that public basketball hoops would provide exercise opportunities freely. He installed court equipment.,-0.02616313286,0.1057213545,0.1318844873
+471,They understood that community accountability processes would reduce harm without punishment. They facilitated healing circles.,-0.03637943417,0.1114424095,0.1478218436
+472,She calculated that public coat drives would warm people through winter months. She collected warm clothing.,-0.05434634537,0.06104691327,0.1153932586
+473,He recognized that community identity support would reduce discrimination locally. He organized pride events.,0.02331385389,0.1134426221,0.09012876824
+474,She calculated that providing free breakfast would improve concentration for students in low-income schools. She implemented the morning meal program.,-0.06523089111,0.05109715462,0.1163280457
+475,He recognized that offering flexible payment options would reduce financial stress for many customers. He introduced installment plans.,-0.02864579111,0.0818869099,0.110532701
+476,They determined that creating pedestrian zones would reduce accidents and pollution in the city center. They closed the area to traffic.,-0.01539839804,0.07302887738,0.08842727542
+477,She understood that early mental health support would prevent more severe issues later. She established a counseling service in schools.,-0.03240521997,0.07528696209,0.1076921821
+478,He figured that providing recycling bins in public spaces would increase participation and reduce litter. He placed bins in parks and streets.,-0.03823677823,0.07325146347,0.1114882417
+479,They calculated that offering online services would save time and resources for numerous residents. They developed a digital portal.,-0.01506661065,0.07919098437,0.09425759502
+480,She recognized that training employees in conflict resolution would improve workplace harmony and productivity. She organized workshops.,-0.05996900052,0.06111659855,0.1210855991
+481,He determined that installing energy-efficient appliances in public buildings would lower utility costs for the community. He replaced old equipment.,-0.03454596922,0.06631477177,0.100860741
+482,They understood that creating community gardens would provide fresh produce and social interaction for residents. They allocated land for gardening.,-0.03001031466,0.07964313775,0.1096534524
+483,She calculated that offering free Wi-Fi in public areas would help bridge the digital divide for underserved populations. She installed hotspots.,-0.03629900143,0.06360110641,0.09990010783
+484,He recognized that implementing a car-sharing program would reduce individual car ownership and emissions. He launched a vehicle fleet.,-0.03254532814,0.07452893257,0.1070742607
+485,They determined that providing childcare at community events would increase attendance from families. They set up a supervised play area.,-0.02607582882,0.07784125209,0.1039170809
+486,She understood that offering financial literacy classes would help people manage debt and save money. She scheduled courses at the library.,-0.06042619795,0.06663466245,0.1270608604
+487,He figured that creating a bike-sharing program would encourage eco-friendly transportation and reduce traffic. He deployed bicycles around the city.,-0.03461633623,0.05824864283,0.09286497906
+488,They calculated that installing water refill stations would reduce plastic bottle waste and promote hydration. They placed stations in public parks.,-0.02410442941,0.04229802266,0.06640245207
+489,She recognized that organizing volunteer clean-up events would improve neighborhood aesthetics and community pride. She coordinated weekend efforts.,-0.06958978623,0.05633530393,0.1259250902
+490,He determined that offering free health screenings would detect issues early and reduce healthcare costs. He hosted a clinic at the community center.,-0.01993295923,0.07409147918,0.09402443841
+491,She calculated that providing emergency preparedness kits would help families during disasters and reduce panic. She distributed kits to households.,-0.05808088928,0.05794022605,0.1160211153
+492,He recognized that implementing a gray water system would conserve water for landscaping and reduce utility bills. He installed the system in public buildings.,-0.03187702596,0.04751045629,0.07938748226
+493,They determined that offering coding classes for youth would prepare them for future jobs and reduce unemployment. They partnered with a tech company.,-0.017670203,0.06541867554,0.08308887854
+494,She understood that creating a community newsletter would keep residents informed and engaged in local issues. She started a monthly publication.,-0.03692056611,0.0686205402,0.1055411063
+495,He figured that installing solar lights in parks would increase safety and reduce energy costs. He replaced old lights with solar ones.,-0.03669993207,0.0675214678,0.1042213999
+496,They calculated that providing public access to government data would increase transparency and trust in institutions. They published datasets online.,-0.02318525687,0.083592318,0.1067775749
+497,She recognized that organizing cultural festivals would promote diversity and community cohesion. She planned an annual event.,-0.05021424219,0.07443710417,0.1246513464
+498,He determined that implementing a composting program would reduce landfill waste and create nutrient-rich soil. He set up collection bins.,-0.05469442531,0.03901135921,0.09370578453
+499,They understood that creating a mentorship program would support youth development and reduce dropout rates. They recruited local professionals.,-0.01265455782,0.08318490535,0.09583946317

@@ -1,0 +1,51 @@
+pair_id,moral_text,625_10_high_precision_neutral_act,625_10_high_precision_moral_act,difference
+491,He wanted to show hope for improvement. He invested in development.,-0.07037524134,0.1669804305,0.2373556718
+389,He wanted to embody even-temperedness daily. He handled stress without outbursts.,-0.0009938121075,0.2289609611,0.2299547732
+372,She sought to cultivate graciousness as host. She attended to each guest personally.,-0.07788433135,0.1425910294,0.2204753608
+312,She sought to cultivate politeness in interactions. She addressed everyone formally at first.,-0.07090946287,0.1395372003,0.2104466632
+125,She sought to demonstrate openness to learning. She asked questions about unfamiliar topics.,-0.08978060633,0.1206482947,0.210428901
+197,She sought to demonstrate loyalty to commitments. She honored her prior obligations.,-0.08414342999,0.12361525,0.20775868
+210,He wanted to embody consideration for wellbeing. He checked on overwhelmed colleagues.,-0.08039423078,0.1251519322,0.205546163
+72,He wanted to act with the humility he respected. He asked for help when needed.,-0.07929449528,0.1261062771,0.2054007724
+62,He sought to embody reasonableness in negotiations. He proposed a middle ground.,-0.08791796118,0.111324884,0.1992428452
+352,She sought to cultivate independence in thinking. She developed her own methodology.,-0.08965493739,0.1044901088,0.1941450462
+329,He wanted to embody respectfulness toward elders. He offered his seat to older passengers.,-0.03889530152,0.152642563,0.1915378645
+230,He sought to embody respect for differences. He embraced diverse approaches.,-0.05266107619,0.1383540481,0.1910151243
+246,He wanted to embody consideration for others. He shared resources generously.,-0.05984069407,0.1308411062,0.1906818002
+386,She wanted to show dutifulness to family. She visited her parents weekly.,-0.1057446525,0.08428946882,0.1900341213
+192,He wanted to act with the empathy warranted. He validated others' experiences.,-0.08918584883,0.1007695496,0.1899553984
+379,He sought to embody friendliness to strangers. He greeted people on his walks.,-0.0652949512,0.1245074868,0.189802438
+436,She sought to show assertiveness when needed. She negotiated her salary confidently.,-0.05431656167,0.1354175508,0.1897341125
+204,He wanted to act with the honesty crucial. He clarified misunderstandings immediately.,-0.08988856524,0.09794174135,0.1878303066
+431,He wanted to show attentiveness to surroundings. He noticed environmental changes.,-0.06066897884,0.126307562,0.1869765408
+432,She sought to cultivate simplicity in living. She reduced unnecessary possessions.,-0.07083457708,0.1152799502,0.1861145273
+81,She wanted to demonstrate reliability to her family. She kept her promise to attend.,-0.08166477084,0.1043105945,0.1859753653
+180,He wanted to act with the honesty required. He reported his own mistake.,-0.09191341698,0.09365200251,0.1855654195
+252,He wanted to act with the respect warranted. He treated everyone equally.,-0.05919542909,0.126256004,0.1854514331
+422,She wanted to cultivate intensity in focus. She concentrated completely on tasks.,-0.08028677106,0.1041334942,0.1844202653
+186,He wanted to embody patience in teaching. He explained until understanding dawned.,-0.08957882971,0.09424402565,0.1838228554
+4,He aimed to be a person of his word. He arrived at the appointment on time.,0.002999050776,-0.002518864116,-0.005517914891
+459,He strived to embody forthrightness in communication. He stated positions clearly.,0.01294906717,0.02389682457,0.0109477574
+335,He wanted to be someone who shows maturity. He accepted the constructive feedback gracefully.,-6.91e-05,0.01242465153,0.01249371607
+190,He aimed to embody thoroughness in safety. He checked all equipment before use.,0.06008102745,0.04720916972,-0.01287185773
+375,He strived to be someone who shows gallantry. He assisted during the evacuation.,-0.02865631692,-0.009707639925,0.018948677
+105,She wanted to demonstrate grace in victory. She complimented her opponent's effort.,-0.01478869747,0.004784994293,0.01957369177
+217,She aimed to demonstrate reliability in hardship. She maintained her commitments despite stress.,0.01951380447,0.03910213336,0.0195883289
+470,She wanted to be the kind of person who shows bravery. She voiced unpopular opinions.,0.06110176072,0.0828179121,0.02171615139
+49,She aimed to demonstrate leadership through example. She arrived first to set up the venue.,-0.002878501546,0.02680229023,0.02968079178
+127,She aimed to be someone who shows humility. She credited her team for successes.,-0.0335383676,-0.003549227025,0.02998914057
+394,She aimed to embody level-headedness in crisis. She managed emergencies smoothly.,-0.02380520105,0.013513376,0.03731857706
+79,She aimed to be someone who shows independence. She solved the problem herself.,-0.04310422018,-0.005282701924,0.03782151826
+486,She aimed to show temperance in consumption. She ate moderately at events.,-0.03320034593,0.005998678505,0.03919902444
+330,She aimed to be the kind of person who shows enterprise. She launched her side business enthusiastically.,-0.05522476882,-0.01335712336,0.04186764546
+262,She aimed to be someone who demonstrates fairness. She divided the bonus equally among staff.,-0.06631881744,-0.02286380902,0.04345500842
+73,She aimed to demonstrate kindness without expectation. She helped the stranger with directions.,-0.05429851264,-0.01076150592,0.04353700671
+284,She wanted to demonstrate flexibility in her thinking. She considered the opposing viewpoint carefully.,-0.01906275377,0.0256212391,0.04468399286
+18,He wanted to be someone who takes responsibility. He cleaned up after the party.,-0.01782274619,0.02878230438,0.04660505056
+307,He sought to be someone who acts with deliberation. He considered each option before voting.,0.01233160682,0.06142909452,0.0490974877
+276,She sought to be someone who demonstrates care. She checked on her sick teammate daily.,-0.02887988836,0.02067038417,0.04955027252
+349,He aimed to embody studiousness in preparation. He researched the topic thoroughly.,-0.0346240066,0.01516611408,0.04979012068
+490,She aimed to be the kind of person who shows faith. She trusted despite uncertainty.,-0.03682778776,0.01501218136,0.05183996912
+109,She aimed to demonstrate wisdom in counsel. She offered thoughtful advice.,0.1104491577,0.05836538225,-0.0520837754
+97,She aimed to demonstrate openness to feedback. She requested honest critiques.,0.06185539067,0.1143018529,0.05244646221
+323,He wanted to demonstrate shrewdness in business. He negotiated better terms with suppliers.,-0.01588705927,0.03690909967,0.05279615894
