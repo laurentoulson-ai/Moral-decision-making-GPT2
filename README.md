@@ -3,7 +3,7 @@
 This project uses mechanistic interpretability methods to investigate whether and how a small transformer language model (GPT‑2 small) encodes moral reasoning. Controlled moral/neutral sentence-pair datasets were constructed to target three philosophical frameworks (virtue ethics, deontology, utilitarianism), extract mean‑pooled MLP activations across all layers, and apply statistical tests and ranking procedures to identify neurons that selectively represent moral content. Key findings show a sparse but reproducible set of morally‑selective neurons (~4–5% of MLP units), distinct layer‑wise specialisation profiles across frameworks, and evidence of limited sub‑type selectivity within frameworks; causal validation via ablation remains a future step. The repository contains code, datasets, and visualization scripts to reproduce activation analyses and ranked heatmaps of layerwise effects.
 
 Author: Lauren Toulson
-October 2025
+- October 2025
 
 # Introduction
 
@@ -60,6 +60,8 @@ To validate the neutrality of the control set, I applied VADER sentiment scoring
 - Only 2.2% of sentences contained even moderate sentiment (|compound| > 0.25)
 
 I manually reviewed 10% of each dataset to check for framework purity, semantic mirroring, and absence of concealed moral content.
+
+The system prompt used to generate the datasets can be found here: [System Prompt](data/system_prompt.md)
 
 ### Example statements
 
@@ -127,7 +129,7 @@ Moral selectivity was not evenly spread across layers:
 
 ![Significance Per Layer](findings/discovery_phase/plots/significance_per_layer.png)
 
-![Effect Size Heatmap](../../findings/discovery_phase/plots/layer_heatmap.png)
+![Effect Size Heatmap](findings/discovery_phase/plots/layer_heatmap.png)
 
 **Key observations:**
 
@@ -219,7 +221,7 @@ To understand how selectivity manifests across depth, I analysed the layer‑wis
 
 #### Deontology
 
-![Deontology Heatmap](../../findings/specialisation_phase/plots/deont_heatmap.png)
+![Deontology heatmap](findings/specialisation_phase/plots/deont_heatmap.png)
 
 **Specialisation pattern:**
 
@@ -232,7 +234,7 @@ By Layer 6, 43–54% of specialised deontological neurons are “loud” (activa
 
 #### Virtue Ethics
 
-![Virtue Ethics Heatmap](../../findings/specialisation_phase/plots/virtue_heatmap.png)
+![Virtue Ethics Heatmap](findings/specialisation_phase/plots/virtue_heatmap.png)
 
 **Specialisation pattern:**
 
@@ -245,7 +247,7 @@ By Layer 6, nearly half of all specialised virtue neurons exceed the activation 
 
 #### Utilitarianism
 
-![Utilitarianism Heatmap](../../findings/specialisation_phase/plots/util_heatmap.png)
+![Utilitarianism Heatmap](findings/specialisation_phase/plots/util_heatmap.png)
 
 **Specialisation pattern:**
 
