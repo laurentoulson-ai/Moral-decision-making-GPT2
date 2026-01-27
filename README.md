@@ -1,35 +1,34 @@
-# Abstract
+# Moral decision-making in GPT-2
 
-This project uses mechanistic interpretability methods to investigate whether and how a small transformer language model (GPT‑2 small) encodes moral reasoning. Controlled moral/neutral sentence-pair datasets were constructed to target three philosophical frameworks (virtue ethics, deontology, utilitarianism), extract mean‑pooled MLP activations across all layers, and apply statistical tests and ranking procedures to identify neurons that selectively represent moral content. Key findings show a sparse but reproducible set of morally‑selective neurons (~4–5% of MLP units), distinct layer‑wise specialisation profiles across frameworks, and evidence of limited sub‑type selectivity within frameworks; causal validation via ablation remains a future step. The repository contains code, datasets, and visualization scripts to reproduce activation analyses and ranked heatmaps of layerwise effects.
+## Abstract
+
+This project uses mechanistic interpretability methods to investigate whether and how a small transformer language model (GPT‑2 small) encodes moral reasoning. Controlled moral/neutral sentence-pair datasets were constructed to target three philosophical frameworks (virtue ethics, deontology, utilitarianism), extract mean‑pooled MLP activations across all layers, and apply statistical tests to identify neurons that selectively represent moral content. Key findings show a sparse but reproducible set of morally‑selective neurons (~4–5% of MLP units), distinct layer‑wise specialisation profiles across frameworks, and evidence of some sub‑type selectivity within frameworks; causal validation via ablation remains a future step. The repository contains all code and datasets, but excludes raw activation data, due to size. Available upon request.
 
 Author: Lauren Toulson
-- October 2025
+- Experiments: October 2025
+- Write-up: January 2026
 
-# Introduction
+---
+
+## Introduction
 
 This project is an exploratory personal research study investigating whether mechanistic interpretability techniques can illuminate how small language models represent and process moral information. As contemporary AI systems increasingly produce advice, evaluations, or decisions with implicit moral consequences, it is important to understand the internal mechanisms that underlie those behaviours. My aim in this work is to explore whether interpretable structure emerges in the activations of a transformer-based model when it is exposed to moral versus non‑moral language, and to determine whether these patterns correspond to specific moral frameworks.
 
-To make the problem tractable, I use OpenAI’s GPT‑2 small (12 layers, 36,864 MLP neurons), which is open‑weight, computationally lightweight, and conceptually similar to how neuroscientists begin with simple model organisms before scaling to more complex systems. The intention is to first establish whether mechanistic interpretability methods provide valid signals for basic moral distinctions, and later test whether the same patterns scale to larger, frontier‑sized models.
+To make the problem tractable in this intial exploratory project, I use OpenAI’s GPT‑2 small (12 layers, 36,864 MLP neurons), which is open‑weight and computationally lightweight. The intention is to first establish whether mechanistic interpretability methods provide valid signals for basic moral distinctions, and later test whether the same patterns scale to larger, frontier‑sized models.
 
-The exploratory research exercise is structured in three phases—Discovery, Specialisation, and Ablation—each targeting a different level of analysis.
-
----
+The exploratory research exercise is structured in three phases—Discovery, Specialisation, and Ablation — each targeting a different level of analysis.
 
 ## Study 1 - Discovery Phase
 
-**RQ1:** Do any MLP neurons or attention heads in GPT‑2 reliably increase their activation for moral stimuli versus carefully matched neutral controls?
+**RQ1:** Do any MLP neurons in GPT‑2 reliably increase their activation for moral stimuli versus carefully matched neutral controls?
 
 **Sub‑Q:** At which layers are the density and magnitude of morally selective units highest?
-
----
 
 ## Study 2 - Specialisation Phase
 
 **RQ2:** Do individual neurons selectively respond to specific moral frameworks (virtue ethics, deontology, utilitarianism) when controlling for lexical similarity?
 
 **RQ3:** Do morally specialised neurons further divide into semantic sub‑types (e.g., pro‑social vs. internal character reasoning)?
-
----
 
 ## Study 3 - Ablation Phase (future direction)
 
@@ -45,7 +44,7 @@ To isolate moral reasoning from surface‑level linguistic cues, I constructed 3
 
 - A moral context sentence containing reasoning grounded in one of three frameworks (virtue ethics, deontology, utilitarianism).
 - A neutral context sentence matched as closely as possible in structure, length, topic, and vocabulary, but containing no moral reasoning.
-- An identical decision sentence, ensuring that differences in activation reflect moral reasoning in the context—not the action itself.
+- An identical decision sentence in each pair, ensuring that differences in activation reflect moral reasoning in the context — not the action itself.
 
 Claude Opus 4.1 was used to generate these pairs using prompts that strictly enforced:
 
@@ -63,7 +62,7 @@ I manually reviewed 10% of each dataset to check for framework purity, semantic 
 
 The system prompt used to generate the datasets can be found here: [System Prompt](data/system_prompt.md)
 
-### Example statements
+### Example statement pairs
 
 **Moral Framework**
 
@@ -105,11 +104,13 @@ This combination filters out spurious differences and ensures the identified neu
 
 # Study 1: DISCOVERY
 
-The goal of Study 1 was to determine whether GPT‑2 contains identifiable neurons whose average activation is significantly higher for moral sentences than for neutral sentences that are syntactically and lexically matched. This phase serves as a foundation: if no stable moral selectivity is found, subsequent framework‑specific analysis would be unwarranted.
+## Aim
+
+Study 1 aims to determine whether GPT‑2 contains identifiable neurons whose average activation is significantly higher for moral sentences than for neutral sentences that are syntactically and lexically matched. This phase serves as a foundation: if no stable moral selectivity is found, subsequent framework‑specific analysis would be unwarranted.
 
 To retrieve activations for this study, I used a sample of 400 moral-neutral statement pairs across the three moral frameworks.
 
-## Findings
+## Study 1 Findings
 
 ### Overall Specialisation
 
@@ -119,7 +120,7 @@ Across 36,864 neurons, 1,774 neurons (4.81%) satisfied all criteria for moral sp
 - GPT‑2 does not contain a single dedicated module for morality; rather, moral information is distributed across the network.
 - A small subset of neurons exhibit extremely strong differences, forming a “long tail” of super‑specialised units.
 
-![Effect Size Distribution](findings/discovery_phase/plots/effect_size_circuit_2775.png)
+![Effect Size Distribution](findings/discovery_phase/plots/effect_size_distribution.png)
 
 The distribution is strongly right‑skewed, with a dense cluster near d = 0.8–1.0 and a long tail extending beyond d > 2.0. This suggests a spectrum of moral selectivity, from moderately tuned to highly specialised neurons.
 
@@ -262,7 +263,7 @@ This indicates that utilitarian signals can be detected from shallow lexical or 
 
 ## Interpretation and Response to RQ2
 
-Study 2 provides strong evidence that GPT‑2 develops differentiated internal structure for distinct moral frameworks.
+Analysis for RQ2 provides strong evidence that GPT‑2 develops differentiated internal structure for distinct moral frameworks.
 
 1. Evidence for Framework‑Based Specialisation
 
@@ -290,7 +291,7 @@ These differences strongly suggest that GPT‑2 employs different computational 
 
 While RQ2 established that GPT‑2 forms distinct neural representations for different moral frameworks, RQ3 investigates a deeper question: within a given moral framework, do individual neurons specialise even further, responding selectively to semantic sub‑types such as pro‑social behaviour, internal character reasoning, rule‑based obligations, or community‑level consequences?
 
-This analysis tests whether moral representation in GPT‑2 shows fine‑grained structure rather than being a monolithic category encoded uniformly across statements.
+This analysis tests whether moral representation in GPT‑2 shows fine‑grained structure in response to distinct moral themes or whether moral concepts are more broadly encoded.
 
 ## Methodology
 
