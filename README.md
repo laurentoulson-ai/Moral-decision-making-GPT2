@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project uses mechanistic interpretability methods to investigate whether and how a small transformer language model (GPT‑2 small) encodes moral reasoning. Controlled moral/neutral sentence-pair datasets were constructed to target three philosophical frameworks (virtue ethics, deontology, utilitarianism), extract mean‑pooled MLP activations across all layers, and apply statistical tests to identify neurons that selectively represent moral content. Key findings show a sparse but reproducible set of morally‑selective neurons (~4–5% of MLP units), distinct layer‑wise specialisation profiles across frameworks, and evidence of some sub‑type selectivity within frameworks; causal validation via ablation remains a future step. The repository contains all code and datasets, but excludes raw activation data, due to size. Available upon request.
+This project uses mechanistic interpretability methods to investigate whether and how a small transformer language model (GPT‑2 small) encodes moral frameworks. Controlled moral/neutral sentence-pair datasets were constructed to target three philosophical frameworks (virtue ethics, deontology, utilitarianism), extract mean‑pooled MLP activations across all layers, and apply statistical tests to identify neurons that selectively represent moral content. Key findings show a sparse but reproducible set of morally‑selective neurons (~4–5% of MLP units), distinct layer‑wise specialisation profiles across frameworks, and evidence of some sub‑type selectivity within frameworks; causal validation via ablation remains a future step. The repository contains all code and datasets, but excludes raw activation data, due to size. Available upon request.
 
 Author: Lauren Toulson
 - Experiments: October 2025
@@ -40,7 +40,7 @@ The exploratory research exercise is structured in three phases—Discovery, Spe
 
 ## Dataset Construction
 
-To isolate moral reasoning from surface‑level linguistic cues, I constructed 3 datasets of 500 moral–neutral sentence pairs. Each dataset isolated a single moral framework: Utilitarianism, Virtue ethics or Deontology. I constructed a 4th dataset combining an even sample from each moral framework. Each pair consists of:
+To isolate moral frameworks from surface‑level linguistic cues, I constructed 3 datasets of 500 moral–neutral sentence pairs. Each dataset isolated a single moral framework: Utilitarianism, Virtue ethics or Deontology. I constructed a 4th dataset combining an even sample from each moral framework. Each pair consists of:
 
 - A moral context sentence containing reasoning grounded in one of three frameworks (virtue ethics, deontology, utilitarianism).
 - A neutral context sentence matched as closely as possible in structure, length, topic, and vocabulary, but containing no moral reasoning.
@@ -138,7 +138,7 @@ Moral selectivity was not evenly spread across layers:
 - Early layers (Layers 0–3) showed comparatively few specialised units, consistent with their role in encoding lexical and syntactic features.
 - Later layers (Layers 9–11) still contained substantial numbers of specialised neurons, but with a slight decline, aligning with final‑stage representational compression before output.
 
-This pattern suggests that moral reasoning, like other abstract semantic properties, is processed most intensively in the intermediate representational stages of the model.
+This pattern suggests that moral content, like other abstract semantic properties, is processed most intensively in the intermediate representational stages of the model.
 
 ### Cross‑Layer “Circuit‑Like” Structure
 
@@ -155,7 +155,7 @@ Example: Neuron 2775 showed specialisation in layers 4, 5, 6, and 10.
 
 ## Aim
 
-Study 2 extends beyond the general moral sensitivity identified in Study 1 and asks whether GPT‑2 develops distinct internal representations for different forms of moral reasoning. Instead of comparing “moral vs. neutral” sentences, this phase focuses on whether neurons selectively encode one moral framework—virtue ethics, deontology, or utilitarianism—when lexical and syntactic structures are carefully controlled. The goal is to determine whether the model learns genuinely differentiated internal concepts corresponding to philosophical categories.
+Study 2 extends beyond the general moral sensitivity identified in Study 1 and asks whether GPT‑2 develops distinct internal representations for different moral frameworks. Instead of comparing “moral vs. neutral” sentences, this phase focuses on whether neurons selectively encode one moral framework—virtue ethics, deontology, or utilitarianism—when lexical and syntactic structures are carefully controlled. The goal is to determine whether the model learns genuinely differentiated internal concepts corresponding to philosophical categories.
 
 ## Datasets and Activation Extraction
 
@@ -214,7 +214,7 @@ Several patterns emerge:
 - Utilitarianism produces the largest pool of specialised neurons, suggesting that outcome‑based reasoning activates a broad, distributed computational footprint.
 - Shared neurons are not neutral generalists—in most shared overlaps, the utilitarian condition drives the strongest activation.
 
-This supports the hypothesis that even when sentences are constructed to minimise overlap, outcome‑based reasoning is inherently entangled with many linguistic cues, making utilitarian processing more dominant.
+This supports the hypothesis that even when sentences are constructed to minimise overlap, outcome‑based statements are inherently entangled with many linguistic cues, making utilitarian processing more dominant.
 
 ### Framework‑Specific Activation Profiles
 
@@ -240,7 +240,7 @@ By Layer 6, 43–54% of specialised deontological neurons are “loud” (activa
 **Specialisation pattern:**
 
 - Concentrated in layers 6–10, with highest percentages in layers 6–8 (40%, 37%, 34%).
-- This mirrors deontology but shifts slightly later, implying virtue‑ethical reasoning—which often concerns character and internal motivations—requires deeper integration and contextualisation.
+- This mirrors deontology but shifts slightly later, implying that virtue ethics—which often concerns character and internal motivations—requires deeper integration and contextualisation.
 - Strongest detectors: The highest effect size occurs in Layer 11 (d = 4.57).
 - Activation strength: Same late‑layer amplification as other frameworks.
 
@@ -281,7 +281,7 @@ The three moral frameworks produce qualitatively different layer‑wise profiles
 - Virtue ethics: Deeper abstraction, late‑layer synthesis
 - Utilitarianism: Distributed features with early detection
 
-These differences strongly suggest that GPT‑2 employs different computational strategies to represent different types of moral reasoning.
+These differences strongly suggest that GPT‑2 employs different computational strategies to represent different moral frameworks.
 
 ---
 
@@ -423,7 +423,7 @@ Overall, these findings suggest that GPT‑2 encodes moral frameworks in a struc
 
 ## Aim
 
-The ablation phase was designed to test the causal validity of the specialised neurons identified in RQ1–RQ3. While Studies 1 and 2 revealed statistically robust patterns of neural selectivity, these analyses alone cannot establish whether the identified neurons functionally contribute to moral reasoning. Causal evaluation—typically via targeted ablation—is essential to determine whether these neurons merely correlate with moral content or whether they play a meaningful role in the model’s decision‑making pathways.
+The ablation phase was designed to test the causal validity of the specialised neurons identified in RQ1–RQ3. While Studies 1 and 2 revealed statistically robust patterns of neural selectivity, these analyses alone cannot establish whether the identified neurons functionally contribute to moral decision-making. Causal evaluation—typically via targeted ablation—is essential to determine whether these neurons merely correlate with moral content or whether they play a meaningful role in the model’s decision‑making pathways.
 
 This phase remains incomplete, but represents the most important avenue for future work.
 
@@ -483,3 +483,6 @@ To progress, future work should focus on:
 - Measurement constraints: choices such as pooling strategy, statistical thresholds (p, Cohen’s d), and parsing/formatting decisions affect sensitivity and false positive rates; causal claims require targeted interventions (e.g. ablation or path‑patching).
 
 ---
+Acknowledgements: I would like to thank my colleauges at the AI Security Institute, Vanessa Cheung and Kata Slama, for their feedback on this project.
+
+Disclaimer: This is a personal project and not associated with my work at the AI Security Institute.
